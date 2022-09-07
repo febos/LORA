@@ -1,0 +1,72 @@
+data_6th6_214
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+HETATM 100516  P   P  . OMG AA 27 2016  ?  188.149  207.366   195.43  1.0  5.0  ? 2016 OMG BA   P  1
+HETATM 100517  O OP1  . OMG AA 27 2016  ?  188.665  206.032  195.858  1.0  5.0  ? 2016 OMG BA OP1  1
+HETATM 100518  O OP2  . OMG AA 27 2016  ?  187.763  208.391  196.455  1.0  5.0  ? 2016 OMG BA OP2  1
+HETATM 100519  O O5'  . OMG AA 27 2016  ?  189.268   207.97  194.483  1.0  5.0  ? 2016 OMG BA O5'  1
+HETATM 100520  C C5'  . OMG AA 27 2016  ?  189.965  209.153  194.826  1.0  5.0  ? 2016 OMG BA C5'  1
+HETATM 100521  C C4'  . OMG AA 27 2016  ?  189.949  210.121  193.681  1.0  5.0  ? 2016 OMG BA C4'  1
+HETATM 100522  O O4'  . OMG AA 27 2016  ?  188.599  210.611  193.486  1.0  5.0  ? 2016 OMG BA O4'  1
+HETATM 100523  C C3'  . OMG AA 27 2016  ?  190.774  211.387  193.844  1.0  5.0  ? 2016 OMG BA C3'  1
+HETATM 100524  O O3'  . OMG AA 27 2016  ?  192.159  211.188  193.606  1.0  5.0  ? 2016 OMG BA O3'  1
+HETATM 100525  C C2'  . OMG AA 27 2016  ?  190.109  212.313  192.843  1.0  5.0  ? 2016 OMG BA C2'  1
+HETATM 100526  O O2'  . OMG AA 27 2016  ?  190.485   211.96  191.526  1.0  5.0  ? 2016 OMG BA O2'  1
+HETATM 100527  C CM2  . OMG AA 27 2016  ?  190.282  212.974  190.569  1.0  5.0  ? 2016 OMG BA CM2  1
+HETATM 100528  C C1'  . OMG AA 27 2016  ?  188.638  211.944  193.037  1.0  5.0  ? 2016 OMG BA C1'  1
+HETATM 100529  N  N9  . OMG AA 27 2016  ?  187.971  212.793   194.04  1.0  5.0  ? 2016 OMG BA  N9  1
+HETATM 100530  C  C8  . OMG AA 27 2016  ?  187.316  212.283  195.089  1.0  5.0  ? 2016 OMG BA  C8  1
+HETATM 100531  N  N7  . OMG AA 27 2016  ?  186.819  213.296  195.811  1.0  5.0  ? 2016 OMG BA  N7  1
+HETATM 100532  C  C5  . OMG AA 27 2016  ?  187.161   214.42  195.214  1.0  5.0  ? 2016 OMG BA  C5  1
+HETATM 100533  C  C6  . OMG AA 27 2016  ?  186.893  215.879  195.557  1.0  5.0  ? 2016 OMG BA  C6  1
+HETATM 100534  O  O6  . OMG AA 27 2016  ?  186.276  216.186  196.504  1.0  5.0  ? 2016 OMG BA  O6  1
+HETATM 100535  N  N1  . OMG AA 27 2016  ?  187.402  216.884  194.708  1.0  5.0  ? 2016 OMG BA  N1  1
+HETATM 100536  C  C2  . OMG AA 27 2016  ?   188.15  216.546  193.556  1.0  5.0  ? 2016 OMG BA  C2  1
+HETATM 100537  N  N2  . OMG AA 27 2016  ?  188.643  217.589   192.74  1.0  5.0  ? 2016 OMG BA  N2  1
+HETATM 100538  N  N3  . OMG AA 27 2016  ?  188.415  215.161  193.222  1.0  5.0  ? 2016 OMG BA  N3  1
+HETATM 100539  C  C4  . OMG AA 27 2016  ?   187.88  214.104  194.108  1.0  5.0  ? 2016 OMG BA  C4  1
+  ATOM 115215  P   P  .   G AA 27 2701  ?  191.652  203.151  190.269  1.0  5.0  ? 2701   G BA   P  1
+  ATOM 115216  O OP1  .   G AA 27 2701  ?   191.25   203.67  191.588  1.0  5.0  ? 2701   G BA OP1  1
+  ATOM 115217  O OP2  .   G AA 27 2701  ?  193.072  203.126  189.877  1.0  5.0  ? 2701   G BA OP2  1
+  ATOM 115218  O O5'  .   G AA 27 2701  ?  191.085  201.675  190.152  1.0  5.0  ? 2701   G BA O5'  1
+  ATOM 115219  C C5'  .   G AA 27 2701  ?  189.696   201.42  190.228  1.0  5.0  ? 2701   G BA C5'  1
+  ATOM 115220  C C4'  .   G AA 27 2701  ?  189.347  200.079  189.667  1.0  5.0  ? 2701   G BA C4'  1
+  ATOM 115221  O O4'  .   G AA 27 2701  ?  189.686  200.043  188.264  1.0  5.0  ? 2701   G BA O4'  1
+  ATOM 115222  C C3'  .   G AA 27 2701  ?  190.091  198.909  190.284  1.0  5.0  ? 2701   G BA C3'  1
+  ATOM 115223  O O3'  .   G AA 27 2701  ?   189.44  198.428  191.448  1.0  5.0  ? 2701   G BA O3'  1
+  ATOM 115224  C C2'  .   G AA 27 2701  ?   190.16  197.891  189.151  1.0  5.0  ? 2701   G BA C2'  1
+  ATOM 115225  O O2'  .   G AA 27 2701  ?  188.994  197.086  189.111  1.0  5.0  ? 2701   G BA O2'  1
+  ATOM 115226  C C1'  .   G AA 27 2701  ?  190.189   198.78  187.911  1.0  5.0  ? 2701   G BA C1'  1
+  ATOM 115227  N  N9  .   G AA 27 2701  ?  191.513  198.984  187.293  1.0  5.0  ? 2701   G BA  N9  1
+  ATOM 115228  C  C8  .   G AA 27 2701  ?  192.462  199.904  187.637  1.0  5.0  ? 2701   G BA  C8  1
+  ATOM 115229  N  N7  .   G AA 27 2701  ?  193.493  199.912  186.867  1.0  5.0  ? 2701   G BA  N7  1
+  ATOM 115230  C  C5  .   G AA 27 2701  ?    193.2  198.957  185.926  1.0  5.0  ? 2701   G BA  C5  1
+  ATOM 115231  C  C6  .   G AA 27 2701  ?  193.961  198.528  184.825  1.0  5.0  ? 2701   G BA  C6  1
+  ATOM 115232  O  O6  .   G AA 27 2701  ?  195.067    198.9   184.45  1.0  5.0  ? 2701   G BA  O6  1
+  ATOM 115233  N  N1  .   G AA 27 2701  ?  193.303  197.546  184.135  1.0  5.0  ? 2701   G BA  N1  1
+  ATOM 115234  C  C2  .   G AA 27 2701  ?  192.081  197.041   184.45  1.0  5.0  ? 2701   G BA  C2  1
+  ATOM 115235  N  N2  .   G AA 27 2701  ?  191.635  196.095   183.64  1.0  5.0  ? 2701   G BA  N2  1
+  ATOM 115236  N  N3  .   G AA 27 2701  ?  191.354  197.425   185.47  1.0  5.0  ? 2701   G BA  N3  1
+  ATOM 115237  C  C4  .   G AA 27 2701  ?  191.981  198.384  186.163  1.0  5.0  ? 2701   G BA  C4  1
+# 

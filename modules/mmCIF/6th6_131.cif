@@ -1,0 +1,67 @@
+data_6th6_131
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+HETATM 19614  N  N1  . 5MU  A  1  917  ?  210.625  276.822  197.977  1.0   20.0  ?  917 5MU Aa  N1  1
+HETATM 19615  C  C2  . 5MU  A  1  917  ?  209.297  277.035  198.401  1.0   20.0  ?  917 5MU Aa  C2  1
+HETATM 19616  N  N3  . 5MU  A  1  917  ?  208.947  276.909  199.682  1.0   20.0  ?  917 5MU Aa  N3  1
+HETATM 19617  C  C4  . 5MU  A  1  917  ?  209.852  276.572  200.598  1.0   20.0  ?  917 5MU Aa  C4  1
+HETATM 19618  C  C5  . 5MU  A  1  917  ?  211.251  276.342  200.185  1.0   20.0  ?  917 5MU Aa  C5  1
+HETATM 19619  C C5M  . 5MU  A  1  917  ?  212.303  275.965  201.193  1.0   20.0  ?  917 5MU Aa C5M  1
+HETATM 19620  C  C6  . 5MU  A  1  917  ?  211.574  276.483   198.85  1.0   20.0  ?  917 5MU Aa  C6  1
+HETATM 19621  O  O2  . 5MU  A  1  917  ?   208.43  277.347  197.564  1.0   20.0  ?  917 5MU Aa  O2  1
+HETATM 19622  O  O4  . 5MU  A  1  917  ?  209.525  276.452  201.793  1.0   20.0  ?  917 5MU Aa  O4  1
+HETATM 19623  C C1'  . 5MU  A  1  917  ?  210.969  276.966   196.56  1.0   20.0  ?  917 5MU Aa C1'  1
+HETATM 19624  C C2'  . 5MU  A  1  917  ?  211.032  278.433  196.187  1.0   20.0  ?  917 5MU Aa C2'  1
+HETATM 19625  O O2'  . 5MU  A  1  917  ?  210.343  278.616  194.949  1.0   20.0  ?  917 5MU Aa O2'  1
+HETATM 19626  C C3'  . 5MU  A  1  917  ?  212.507  278.739   196.04  1.0   20.0  ?  917 5MU Aa C3'  1
+HETATM 19627  C C4'  . 5MU  A  1  917  ?   213.14  277.392  195.748  1.0   20.0  ?  917 5MU Aa C4'  1
+HETATM 19628  O O3'  . 5MU  A  1  917  ?  212.761  279.663  194.978  1.0   20.0  ?  917 5MU Aa O3'  1
+HETATM 19629  O O4'  . 5MU  A  1  917  ?  212.263  276.414  196.305  1.0   20.0  ?  917 5MU Aa O4'  1
+HETATM 19630  C C5'  . 5MU  A  1  917  ?  214.527  277.268   196.36  1.0   20.0  ?  917 5MU Aa C5'  1
+HETATM 19631  O O5'  . 5MU  A  1  917  ?   214.45  277.521  197.758  1.0   20.0  ?  917 5MU Aa O5'  1
+HETATM 19632  P   P  . 5MU  A  1  917  ?  215.363  276.688  198.776  1.0   20.0  ?  917 5MU Aa   P  1
+HETATM 19633  O OP1  . 5MU  A  1  917  ?   215.58  277.508  200.017  1.0   20.0  ?  917 5MU Aa OP1  1
+HETATM 19634  O OP2  . 5MU  A  1  917  ?  214.788  275.304  198.881  1.0   20.0  ?  917 5MU Aa OP2  1
+HETATM 28674  P   P  . 5MC  A  1 1352  ?  202.311  269.909  206.988  1.0  13.06  ? 1352 5MC Aa   P  1
+HETATM 28675  O OP1  . 5MC  A  1 1352  ?  202.302  271.411  206.934  1.0  13.06  ? 1352 5MC Aa OP1  1
+HETATM 28676  O OP2  . 5MC  A  1 1352  ?   201.73  269.152  205.831  1.0  13.06  ? 1352 5MC Aa OP2  1
+HETATM 28677  O O5'  . 5MC  A  1 1352  ?  203.808  269.407  207.179  1.0  13.06  ? 1352 5MC Aa O5'  1
+HETATM 28678  C C5'  . 5MC  A  1 1352  ?  204.096  268.017  207.275  1.0  13.06  ? 1352 5MC Aa C5'  1
+HETATM 28679  C C4'  . 5MC  A  1 1352  ?  205.513   267.75  207.719  1.0  13.06  ? 1352 5MC Aa C4'  1
+HETATM 28680  O O4'  . 5MC  A  1 1352  ?  206.428  268.316  206.743  1.0  13.06  ? 1352 5MC Aa O4'  1
+HETATM 28681  C C3'  . 5MC  A  1 1352  ?  205.906  268.347  209.062  1.0  13.06  ? 1352 5MC Aa C3'  1
+HETATM 28682  O O3'  . 5MC  A  1 1352  ?  206.875  267.511    209.7  1.0  13.06  ? 1352 5MC Aa O3'  1
+HETATM 28683  C C2'  . 5MC  A  1 1352  ?  206.549  269.666  208.661  1.0  13.06  ? 1352 5MC Aa C2'  1
+HETATM 28684  O O2'  . 5MC  A  1 1352  ?  207.448  270.185  209.614  1.0  13.06  ? 1352 5MC Aa O2'  1
+HETATM 28685  C C1'  . 5MC  A  1 1352  ?  207.251  269.286  207.358  1.0  13.06  ? 1352 5MC Aa C1'  1
+HETATM 28686  N  N1  . 5MC  A  1 1352  ?  207.403  270.403  206.418  1.0  13.06  ? 1352 5MC Aa  N1  1
+HETATM 28687  C  C2  . 5MC  A  1 1352  ?  208.731  271.015  206.151  1.0  13.06  ? 1352 5MC Aa  C2  1
+HETATM 28688  O  O2  . 5MC  A  1 1352  ?  209.698  270.608  206.695  1.0  13.06  ? 1352 5MC Aa  O2  1
+HETATM 28689  N  N3  . 5MC  A  1 1352  ?   208.84  272.144  205.199  1.0  13.06  ? 1352 5MC Aa  N3  1
+HETATM 28690  C  C4  . 5MC  A  1 1352  ?  207.663  272.653  204.531  1.0  13.06  ? 1352 5MC Aa  C4  1
+HETATM 28691  N  N4  . 5MC  A  1 1352  ?   207.76  273.755  203.601  1.0  13.06  ? 1352 5MC Aa  N4  1
+HETATM 28692  C  C5  . 5MC  A  1 1352  ?  206.337  272.046  204.791  1.0  13.06  ? 1352 5MC Aa  C5  1
+HETATM 28693  C  C6  . 5MC  A  1 1352  ?  206.232  270.915  205.741  1.0  13.06  ? 1352 5MC Aa  C6  1
+HETATM 28694  C CM5  . 5MC  A  1 1352  ?  205.093  272.574  204.089  1.0  13.06  ? 1352 5MC Aa CM5  1
+# 

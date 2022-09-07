@@ -1,0 +1,70 @@
+data_7ez2_14
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM  499  P   P  .  G  C  3 11  ?  93.782   85.03  101.624  1.0  19.54  ? 27  G  N   P  1
+ATOM  500  O OP1  .  G  C  3 11  ?  92.466  85.611  101.985  1.0  19.54  ? 27  G  N OP1  1
+ATOM  501  O OP2  .  G  C  3 11  ?  94.472  84.129  102.578  1.0  19.54  ? 27  G  N OP2  1
+ATOM  502  O O5'  .  G  C  3 11  ?  93.614   84.27  100.235  1.0  19.54  ? 27  G  N O5'  1
+ATOM  503  C C5'  .  G  C  3 11  ?  92.968  84.897   99.139  1.0  19.54  ? 27  G  N C5'  1
+ATOM  504  C C4'  .  G  C  3 11  ?  92.937  84.007   97.923  1.0  19.54  ? 27  G  N C4'  1
+ATOM  505  O O4'  .  G  C  3 11  ?  94.279  83.842   97.403  1.0  19.54  ? 27  G  N O4'  1
+ATOM  506  C C3'  .  G  C  3 11  ?  92.443  82.586   98.148  1.0  19.54  ? 27  G  N C3'  1
+ATOM  507  O O3'  .  G  C  3 11  ?  91.027  82.503   98.133  1.0  19.54  ? 27  G  N O3'  1
+ATOM  508  C C2'  .  G  C  3 11  ?  93.104  81.809   97.016  1.0  19.54  ? 27  G  N C2'  1
+ATOM  509  O O2'  .  G  C  3 11  ?  92.354  81.917   95.815  1.0  19.54  ? 27  G  N O2'  1
+ATOM  510  C C1'  .  G  C  3 11  ?  94.428  82.558   96.842  1.0  19.54  ? 27  G  N C1'  1
+ATOM  511  N  N9  .  G  C  3 11  ?  95.577  81.896   97.488  1.0  19.54  ? 27  G  N  N9  1
+ATOM  512  C  C8  .  G  C  3 11  ?  96.066  82.118   98.751  1.0  19.54  ? 27  G  N  C8  1
+ATOM  513  N  N7  .  G  C  3 11  ?  97.115  81.399   99.033  1.0  19.54  ? 27  G  N  N7  1
+ATOM  514  C  C5  .  G  C  3 11  ?  97.344  80.662   97.882  1.0  19.54  ? 27  G  N  C5  1
+ATOM  515  C  C6  .  G  C  3 11  ?  98.346  79.704   97.585  1.0  19.54  ? 27  G  N  C6  1
+ATOM  516  O  O6  .  G  C  3 11  ?  99.265  79.303   98.308  1.0  19.54  ? 27  G  N  O6  1
+ATOM  517  N  N1  .  G  C  3 11  ?  98.208  79.202   96.297  1.0  19.54  ? 27  G  N  N1  1
+ATOM  518  C  C2  .  G  C  3 11  ?  97.233   79.57   95.406  1.0  19.54  ? 27  G  N  C2  1
+ATOM  519  N  N2  .  G  C  3 11  ?  97.253  78.979   94.204  1.0  19.54  ? 27  G  N  N2  1
+ATOM  520  N  N3  .  G  C  3 11  ?  96.292   80.46   95.671  1.0  19.54  ? 27  G  N  N3  1
+ATOM  521  C  C4  .  G  C  3 11  ?  96.407  80.962   96.917  1.0  19.54  ? 27  G  N  C4  1
+ATOM 1950  P   P  .  A  C  3 79  ?  87.309  88.881  101.778  1.0  19.54  ? 95  A  N   P  1
+ATOM 1951  O OP1  .  A  C  3 79  ?  88.714  88.915  101.305  1.0  19.54  ? 95  A  N OP1  1
+ATOM 1952  O OP2  .  A  C  3 79  ?  86.397  87.822  101.283  1.0  19.54  ? 95  A  N OP2  1
+ATOM 1953  O O5'  .  A  C  3 79  ?  87.338  88.813  103.368  1.0  19.54  ? 95  A  N O5'  1
+ATOM 1954  C C5'  .  A  C  3 79  ?  86.164  89.072  104.127  1.0  19.54  ? 95  A  N C5'  1
+ATOM 1955  C C4'  .  A  C  3 79  ?  86.142  90.482  104.656  1.0  19.54  ? 95  A  N C4'  1
+ATOM 1956  O O4'  .  A  C  3 79  ?  84.797  91.014  104.532  1.0  19.54  ? 95  A  N O4'  1
+ATOM 1957  C C3'  .  A  C  3 79  ?  86.529  90.641  106.123  1.0  19.54  ? 95  A  N C3'  1
+ATOM 1958  O O3'  .  A  C  3 79  ?  87.216  91.878  106.315  1.0  19.54  ? 95  A  N O3'  1
+ATOM 1959  C C2'  .  A  C  3 79  ?  85.174  90.687  106.822  1.0  19.54  ? 95  A  N C2'  1
+ATOM 1960  O O2'  .  A  C  3 79  ?  85.183  91.333  108.076  1.0  19.54  ? 95  A  N O2'  1
+ATOM 1961  C C1'  .  A  C  3 79  ?  84.334  91.441  105.796  1.0  19.54  ? 95  A  N C1'  1
+ATOM 1962  N  N9  .  A  C  3 79  ?  82.891  91.193  105.858  1.0  19.54  ? 95  A  N  N9  1
+ATOM 1963  C  C8  .  A  C  3 79  ?  82.206  90.043  106.158  1.0  19.54  ? 95  A  N  C8  1
+ATOM 1964  N  N7  .  A  C  3 79  ?  80.904  90.173  106.106  1.0  19.54  ? 95  A  N  N7  1
+ATOM 1965  C  C5  .  A  C  3 79  ?   80.72  91.499  105.741  1.0  19.54  ? 95  A  N  C5  1
+ATOM 1966  C  C6  .  A  C  3 79  ?  79.572  92.274  105.512  1.0  19.54  ? 95  A  N  C6  1
+ATOM 1967  N  N6  .  A  C  3 79  ?  78.328  91.814  105.621  1.0  19.54  ? 95  A  N  N6  1
+ATOM 1968  N  N1  .  A  C  3 79  ?  79.743  93.565  105.161  1.0  19.54  ? 95  A  N  N1  1
+ATOM 1969  C  C2  .  A  C  3 79  ?  80.986  94.038  105.047  1.0  19.54  ? 95  A  N  C2  1
+ATOM 1970  N  N3  .  A  C  3 79  ?  82.141  93.411  105.235  1.0  19.54  ? 95  A  N  N3  1
+ATOM 1971  C  C4  .  A  C  3 79  ?  81.935  92.133  105.584  1.0  19.54  ? 95  A  N  C4  1
+# 

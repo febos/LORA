@@ -1,0 +1,68 @@
+data_7o7y_280
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+HETATM 164601  N  N1  . PSU OA 41  55  ?  268.324  368.382   322.11  1.0  9.51  0  55 PSU B8  N1  1
+HETATM 164602  C  C2  . PSU OA 41  55  ?  267.665  369.481  321.709  1.0  9.51  0  55 PSU B8  C2  1
+HETATM 164603  N  N3  . PSU OA 41  55  ?  267.572  370.571  322.481  1.0  9.51  0  55 PSU B8  N3  1
+HETATM 164604  C  C4  . PSU OA 41  55  ?   268.14  370.599  323.687  1.0  9.51  0  55 PSU B8  C4  1
+HETATM 164605  C  C5  . PSU OA 41  55  ?  268.872  369.399  324.153  1.0  9.51  0  55 PSU B8  C5  1
+HETATM 164606  C  C6  . PSU OA 41  55  ?  268.932  368.309  323.301  1.0  9.51  0  55 PSU B8  C6  1
+HETATM 164607  O  O2  . PSU OA 41  55  ?  267.122   369.49  320.586  1.0  9.51  0  55 PSU B8  O2  1
+HETATM 164608  O  O4  . PSU OA 41  55  ?  268.051  371.616  324.405  1.0  9.51  0  55 PSU B8  O4  1
+HETATM 164609  C C1'  . PSU OA 41  55  ?  269.518  369.381  325.485  1.0  9.51  0  55 PSU B8 C1'  1
+HETATM 164610  C C2'  . PSU OA 41  55  ?  268.432  369.231  326.554  1.0  9.51  0  55 PSU B8 C2'  1
+HETATM 164611  O O2'  . PSU OA 41  55  ?  268.832  369.954  327.708  1.0  9.51  0  55 PSU B8 O2'  1
+HETATM 164612  C C3'  . PSU OA 41  55  ?  268.475  367.732  326.818  1.0  9.51  0  55 PSU B8 C3'  1
+HETATM 164613  C C4'  . PSU OA 41  55  ?  269.957  367.424  326.693  1.0  9.51  0  55 PSU B8 C4'  1
+HETATM 164614  O O3'  . PSU OA 41  55  ?  267.934  367.357  328.072  1.0  9.51  0  55 PSU B8 O3'  1
+HETATM 164615  O O4'  . PSU OA 41  55  ?   270.39  368.276  325.604  1.0  9.51  0  55 PSU B8 O4'  1
+HETATM 164616  C C5'  . PSU OA 41  55  ?  270.309  365.989  326.391  1.0  9.51  0  55 PSU B8 C5'  1
+HETATM 164617  O O5'  . PSU OA 41  55  ?  269.749  365.561   325.16  1.0  9.51  0  55 PSU B8 O5'  1
+HETATM 164618  P   P  . PSU OA 41  55  ?  270.305  364.266  324.418  1.0  9.51  0  55 PSU B8   P  1
+HETATM 164619  O OP1  . PSU OA 41  55  ?  270.321  363.136  325.416  1.0  9.51  0  55 PSU B8 OP1  1
+HETATM 164620  O OP2  . PSU OA 41  55  ?  269.548   364.11  323.122  1.0  9.51  0  55 PSU B8 OP2  1
+  ATOM  87888  P   P  .   G MA 39 364  ?  274.765  357.924  326.497  1.0  14.3  0 364   G B5   P  1
+  ATOM  87889  O OP1  .   G MA 39 364  ?  273.748  358.629   325.68  1.0  14.3  0 364   G B5 OP1  1
+  ATOM  87890  O OP2  .   G MA 39 364  ?  275.127  358.449  327.836  1.0  14.3 -1 364   G B5 OP2  1
+  ATOM  87891  O O5'  .   G MA 39 364  ?  274.307  356.408  326.675  1.0  14.3  0 364   G B5 O5'  1
+  ATOM  87892  C C5'  .   G MA 39 364  ?  273.592  355.725  325.649  1.0  14.3  0 364   G B5 C5'  1
+  ATOM  87893  C C4'  .   G MA 39 364  ?   274.49  355.346  324.497  1.0  14.3  0 364   G B5 C4'  1
+  ATOM  87894  O O4'  .   G MA 39 364  ?  275.556  354.469  324.966  1.0  14.3  0 364   G B5 O4'  1
+  ATOM  87895  C C3'  .   G MA 39 364  ?   273.81  354.602  323.348  1.0  14.3  0 364   G B5 C3'  1
+  ATOM  87896  O O3'  .   G MA 39 364  ?  274.462  354.969  322.134  1.0  14.3  0 364   G B5 O3'  1
+  ATOM  87897  C C2'  .   G MA 39 364  ?  274.138  353.148  323.667  1.0  14.3  0 364   G B5 C2'  1
+  ATOM  87898  O O2'  .   G MA 39 364  ?  274.053  352.261  322.572  1.0  14.3  0 364   G B5 O2'  1
+  ATOM  87899  C C1'  .   G MA 39 364  ?  275.562   353.29  324.186  1.0  14.3  0 364   G B5 C1'  1
+  ATOM  87900  N  N9  .   G MA 39 364  ?  276.047   352.17  324.995  1.0  14.3  0 364   G B5  N9  1
+  ATOM  87901  C  C8  .   G MA 39 364  ?  275.388  351.451  325.959  1.0  14.3  0 364   G B5  C8  1
+  ATOM  87902  N  N7  .   G MA 39 364  ?  276.128  350.508   326.48  1.0  14.3  0 364   G B5  N7  1
+  ATOM  87903  C  C5  .   G MA 39 364  ?  277.343  350.608  325.816  1.0  14.3  0 364   G B5  C5  1
+  ATOM  87904  C  C6  .   G MA 39 364  ?  278.541  349.855  325.943  1.0  14.3  0 364   G B5  C6  1
+  ATOM  87905  O  O6  .   G MA 39 364  ?   278.78  348.909    326.7  1.0  14.3  0 364   G B5  O6  1
+  ATOM  87906  N  N1  .   G MA 39 364  ?  279.526  350.305   325.07  1.0  14.3  0 364   G B5  N1  1
+  ATOM  87907  C  C2  .   G MA 39 364  ?  279.378  351.344  324.187  1.0  14.3  0 364   G B5  C2  1
+  ATOM  87908  N  N2  .   G MA 39 364  ?  280.436  351.639  323.422  1.0  14.3  0 364   G B5  N2  1
+  ATOM  87909  N  N3  .   G MA 39 364  ?   278.27  352.049  324.058  1.0  14.3  0 364   G B5  N3  1
+  ATOM  87910  C  C4  .   G MA 39 364  ?  277.303   351.63  324.896  1.0  14.3  0 364   G B5  C4  1
+# 

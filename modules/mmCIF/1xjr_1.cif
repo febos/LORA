@@ -1,0 +1,71 @@
+data_1xjr_1
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 268  P   P  .  G  A  1 13  ?  45.907  38.217   51.71  1.0   71.3  ? 13  G  A   P  1
+ATOM 269  O OP1  .  G  A  1 13  ?  44.638   38.78  52.192  1.0  71.55  ? 13  G  A OP1  1
+ATOM 270  O OP2  .  G  A  1 13  ?  45.943  37.111   50.75  1.0  69.97  ? 13  G  A OP2  1
+ATOM 271  O O5'  .  G  A  1 13  ?  46.745   39.43  51.105  1.0  73.44  ? 13  G  A O5'  1
+ATOM 272  C C5'  .  G  A  1 13  ?  47.196  40.505  51.943  1.0  73.76  ? 13  G  A C5'  1
+ATOM 273  C C4'  .  G  A  1 13  ?  47.744  41.625  51.078  1.0  76.32  ? 13  G  A C4'  1
+ATOM 274  O O4'  .  G  A  1 13  ?  49.103  41.334  50.619  1.0  76.85  ? 13  G  A O4'  1
+ATOM 275  C C3'  .  G  A  1 13  ?  46.935   41.83  49.803  1.0  76.89  ? 13  G  A C3'  1
+ATOM 276  O O3'  .  G  A  1 13  ?  45.949  42.803  50.014  1.0  76.55  ? 13  G  A O3'  1
+ATOM 277  C C2'  .  G  A  1 13  ?  47.978  42.377  48.849  1.0  76.92  ? 13  G  A C2'  1
+ATOM 278  O O2'  .  G  A  1 13  ?  48.005  43.776  49.026  1.0  78.15  ? 13  G  A O2'  1
+ATOM 279  C C1'  .  G  A  1 13  ?  49.251  41.611  49.238  1.0  76.34  ? 13  G  A C1'  1
+ATOM 280  N  N9  .  G  A  1 13  ?  49.232  40.327  48.548  1.0  76.42  ? 13  G  A  N9  1
+ATOM 281  C  C8  .  G  A  1 13  ?   49.16  39.076  49.116  1.0  76.21  ? 13  G  A  C8  1
+ATOM 282  N  N7  .  G  A  1 13  ?  49.115  38.104  48.249  1.0  75.17  ? 13  G  A  N7  1
+ATOM 283  C  C5  .  G  A  1 13  ?   49.15  38.742  47.021  1.0  74.96  ? 13  G  A  C5  1
+ATOM 284  C  C6  .  G  A  1 13  ?  49.112  38.213   45.71  1.0  76.15  ? 13  G  A  C6  1
+ATOM 285  O  O6  .  G  A  1 13  ?  49.057  37.033  45.347  1.0  76.82  ? 13  G  A  O6  1
+ATOM 286  N  N1  .  G  A  1 13  ?  49.147  39.192  44.725  1.0  76.88  ? 13  G  A  N1  1
+ATOM 287  C  C2  .  G  A  1 13  ?  49.216  40.537  44.991  1.0  76.82  ? 13  G  A  C2  1
+ATOM 288  N  N2  .  G  A  1 13  ?  49.242   41.34  43.918  1.0  76.28  ? 13  G  A  N2  1
+ATOM 289  N  N3  .  G  A  1 13  ?  49.244   41.05  46.219  1.0  76.46  ? 13  G  A  N3  1
+ATOM 290  C  C4  .  G  A  1 13  ?  49.205  40.104  47.185  1.0  75.63  ? 13  G  A  C4  1
+ATOM 677  P   P  .  G  A  1 32  ?   39.79   40.77   56.15  1.0  72.52  ? 32  G  A   P  1
+ATOM 678  O OP1  .  G  A  1 32  ?  40.749  40.948  57.275  1.0  74.55  ? 32  G  A OP1  1
+ATOM 679  O OP2  .  G  A  1 32  ?  40.093  41.189  54.775  1.0  71.31  ? 32  G  A OP2  1
+ATOM 680  O O5'  .  G  A  1 32  ?    39.4  39.237  56.076  1.0  72.68  ? 32  G  A O5'  1
+ATOM 681  C C5'  .  G  A  1 32  ?  39.243  38.495  57.271  1.0  72.26  ? 32  G  A C5'  1
+ATOM 682  C C4'  .  G  A  1 32  ?  38.517    37.2  56.943  1.0  73.11  ? 32  G  A C4'  1
+ATOM 683  O O4'  .  G  A  1 32  ?  37.178  37.473  56.422  1.0  73.28  ? 32  G  A O4'  1
+ATOM 684  C C3'  .  G  A  1 32  ?  39.196  36.362  55.864  1.0  71.52  ? 32  G  A C3'  1
+ATOM 685  O O3'  .  G  A  1 32  ?   40.19  35.552  56.453  1.0  69.91  ? 32  G  A O3'  1
+ATOM 686  C C2'  .  G  A  1 32  ?  38.032  35.517  55.393  1.0  71.43  ? 32  G  A C2'  1
+ATOM 687  O O2'  .  G  A  1 32  ?  37.812  34.476  56.323  1.0  72.24  ? 32  G  A O2'  1
+ATOM 688  C C1'  .  G  A  1 32  ?  36.898  36.543  55.389  1.0  72.57  ? 32  G  A C1'  1
+ATOM 689  N  N9  .  G  A  1 32  ?  36.795  37.225  54.095  1.0   72.8  ? 32  G  A  N9  1
+ATOM 690  C  C8  .  G  A  1 32  ?  37.531  38.282  53.615  1.0  72.42  ? 32  G  A  C8  1
+ATOM 691  N  N7  .  G  A  1 32  ?  37.191  38.638  52.401  1.0  72.68  ? 32  G  A  N7  1
+ATOM 692  C  C5  .  G  A  1 32  ?   36.18  37.765  52.045  1.0  72.32  ? 32  G  A  C5  1
+ATOM 693  C  C6  .  G  A  1 32  ?  35.424  37.652  50.857  1.0  72.64  ? 32  G  A  C6  1
+ATOM 694  O  O6  .  G  A  1 32  ?  35.502   38.35  49.839  1.0  72.95  ? 32  G  A  O6  1
+ATOM 695  N  N1  .  G  A  1 32  ?  34.487  36.611  50.906  1.0  73.02  ? 32  G  A  N1  1
+ATOM 696  C  C2  .  G  A  1 32  ?  34.299  35.787  51.991  1.0  72.44  ? 32  G  A  C2  1
+ATOM 697  N  N2  .  G  A  1 32  ?  33.364  34.845  51.901  1.0   72.1  ? 32  G  A  N2  1
+ATOM 698  N  N3  .  G  A  1 32  ?  34.998  35.885  53.109  1.0  73.08  ? 32  G  A  N3  1
+ATOM 699  C  C4  .  G  A  1 32  ?   35.92  36.892  53.076  1.0  73.28  ? 32  G  A  C4  1
+# 

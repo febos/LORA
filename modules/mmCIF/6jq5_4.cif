@@ -1,0 +1,64 @@
+data_6jq5_4
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1747  O O5'  .  U  B  1  1  ? -30.595 -33.591 -20.398  1.0  69.26  ?  1  U  B O5'  1
+ATOM 1748  C C5'  .  U  B  1  1  ? -29.911 -32.503 -21.003  1.0  66.65  ?  1  U  B C5'  1
+ATOM 1749  C C4'  .  U  B  1  1  ? -28.513  -32.89 -21.413  1.0  61.83  ?  1  U  B C4'  1
+ATOM 1750  O O4'  .  U  B  1  1  ? -27.709 -33.184  -20.24  1.0  58.57  ?  1  U  B O4'  1
+ATOM 1751  C C3'  .  U  B  1  1  ? -28.396 -34.146 -22.249  1.0   62.9  ?  1  U  B C3'  1
+ATOM 1752  O O3'  .  U  B  1  1  ? -28.722 -33.944 -23.607  1.0  63.65  ?  1  U  B O3'  1
+ATOM 1753  C C2'  .  U  B  1  1  ? -26.951  -34.56 -22.011  1.0   58.0  ?  1  U  B C2'  1
+ATOM 1754  O O2'  .  U  B  1  1  ? -26.066 -33.746 -22.761  1.0  55.19  ?  1  U  B O2'  1
+ATOM 1755  C C1'  .  U  B  1  1  ? -26.784 -34.205 -20.537  1.0   54.3  ?  1  U  B C1'  1
+ATOM 1756  N  N1  .  U  B  1  1  ? -27.057 -35.363 -19.656  1.0  51.84  ?  1  U  B  N1  1
+ATOM 1757  C  C2  .  U  B  1  1  ? -26.041 -36.281 -19.507  1.0  47.24  ?  1  U  B  C2  1
+ATOM 1758  O  O2  .  U  B  1  1  ? -24.971 -36.169 -20.067  1.0  50.31  ?  1  U  B  O2  1
+ATOM 1759  N  N3  .  U  B  1  1  ? -26.313  -37.34 -18.682  1.0  45.35  ?  1  U  B  N3  1
+ATOM 1760  C  C4  .  U  B  1  1  ? -27.488 -37.558 -18.006  1.0  45.08  ?  1  U  B  C4  1
+ATOM 1761  O  O4  .  U  B  1  1  ? -27.584 -38.558   -17.3  1.0  47.19  ?  1  U  B  O4  1
+ATOM 1762  C  C5  .  U  B  1  1  ? -28.498 -36.563 -18.211  1.0  50.15  ?  1  U  B  C5  1
+ATOM 1763  C  C6  .  U  B  1  1  ? -28.256  -35.52 -19.011  1.0  46.62  ?  1  U  B  C6  1
+ATOM 1580  P   P  .  A  A  1 75  ?  -22.01 -28.382 -18.985  1.0   63.2  ? 75  A  A   P  1
+ATOM 1581  O OP1  .  A  A  1 75  ? -20.971 -28.884 -18.042  1.0  67.08  ? 75  A  A OP1  1
+ATOM 1582  O OP2  .  A  A  1 75  ? -22.115 -28.928 -20.361  1.0  69.96  ? 75  A  A OP2  1
+ATOM 1583  O O5'  .  A  A  1 75  ? -23.455 -28.546 -18.339  1.0  54.22  ? 75  A  A O5'  1
+ATOM 1584  C C5'  .  A  A  1 75  ? -23.679 -28.233 -16.977  1.0  46.92  ? 75  A  A C5'  1
+ATOM 1585  C C4'  .  A  A  1 75  ? -25.141 -28.021 -16.702  1.0  44.18  ? 75  A  A C4'  1
+ATOM 1586  O O4'  .  A  A  1 75  ? -25.838 -29.284 -16.802  1.0  51.51  ? 75  A  A O4'  1
+ATOM 1587  C C3'  .  A  A  1 75  ? -25.473 -27.507 -15.306  1.0  48.48  ? 75  A  A C3'  1
+ATOM 1588  O O3'  .  A  A  1 75  ? -25.392 -26.096 -15.223  1.0  55.33  ? 75  A  A O3'  1
+ATOM 1589  C C2'  .  A  A  1 75  ?  -26.88 -28.037 -15.065  1.0  52.55  ? 75  A  A C2'  1
+ATOM 1590  O O2'  .  A  A  1 75  ? -27.844   -27.2 -15.687  1.0  54.65  ? 75  A  A O2'  1
+ATOM 1591  C C1'  .  A  A  1 75  ? -26.835 -29.373 -15.803  1.0  53.87  ? 75  A  A C1'  1
+ATOM 1592  N  N9  .  A  A  1 75  ? -26.478  -30.49 -14.908  1.0  58.23  ? 75  A  A  N9  1
+ATOM 1593  C  C8  .  A  A  1 75  ? -25.284 -31.168 -14.862  1.0  44.88  ? 75  A  A  C8  1
+ATOM 1594  N  N7  .  A  A  1 75  ?  -25.26 -32.134 -13.972  1.0  51.02  ? 75  A  A  N7  1
+ATOM 1595  C  C5  .  A  A  1 75  ? -26.516 -32.092 -13.393  1.0   56.4  ? 75  A  A  C5  1
+ATOM 1596  C  C6  .  A  A  1 75  ? -27.124 -32.857 -12.379  1.0  54.07  ? 75  A  A  C6  1
+ATOM 1597  N  N6  .  A  A  1 75  ?  -26.53 -33.853 -11.727  1.0  48.19  ? 75  A  A  N6  1
+ATOM 1598  N  N1  .  A  A  1 75  ? -28.394 -32.544 -12.037  1.0  57.44  ? 75  A  A  N1  1
+ATOM 1599  C  C2  .  A  A  1 75  ? -28.998 -31.541 -12.687  1.0  50.87  ? 75  A  A  C2  1
+ATOM 1600  N  N3  .  A  A  1 75  ? -28.529 -30.755 -13.654  1.0  50.84  ? 75  A  A  N3  1
+ATOM 1601  C  C4  .  A  A  1 75  ? -27.273 -31.081 -13.963  1.0  56.82  ? 75  A  A  C4  1
+# 

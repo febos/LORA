@@ -1,0 +1,68 @@
+data_5flx_12
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 75772  P   P  .  U IA 35  86  ?  -56.72 -28.202  40.134  1.0  0.0  ?  86  U  z   P  1
+ATOM 75773  O OP1  .  U IA 35  86  ? -55.459 -28.635  40.787  1.0  0.0  ?  86  U  z OP1  1
+ATOM 75774  O OP2  .  U IA 35  86  ? -57.158 -28.862  38.878  1.0  0.0  ?  86  U  z OP2  1
+ATOM 75775  O O5'  .  U IA 35  86  ? -57.897 -28.333    41.2  1.0  0.0  ?  86  U  z O5'  1
+ATOM 75776  C C5'  .  U IA 35  86  ? -57.668  -28.02  42.569  1.0  0.0  ?  86  U  z C5'  1
+ATOM 75777  C C4'  .  U IA 35  86  ? -58.906 -27.489   43.25  1.0  0.0  ?  86  U  z C4'  1
+ATOM 75778  O O4'  .  U IA 35  86  ? -58.516 -26.421  44.157  1.0  0.0  ?  86  U  z O4'  1
+ATOM 75779  C C3'  .  U IA 35  86  ?  -59.96 -26.893  42.322  1.0  0.0  ?  86  U  z C3'  1
+ATOM 75780  O O3'  .  U IA 35  86  ? -61.257 -27.111  42.876  1.0  0.0  ?  86  U  z O3'  1
+ATOM 75781  C C2'  .  U IA 35  86  ? -59.636 -25.404   42.36  1.0  0.0  ?  86  U  z C2'  1
+ATOM 75782  O O2'  .  U IA 35  86  ? -60.721 -24.559  42.042  1.0  0.0  ?  86  U  z O2'  1
+ATOM 75783  C C1'  .  U IA 35  86  ? -59.184 -25.224  43.806  1.0  0.0  ?  86  U  z C1'  1
+ATOM 75784  N  N1  .  U IA 35  86  ? -58.247 -24.107  43.993  1.0  0.0  ?  86  U  z  N1  1
+ATOM 75785  C  C2  .  U IA 35  86  ? -58.604 -23.101  44.867  1.0  0.0  ?  86  U  z  C2  1
+ATOM 75786  O  O2  .  U IA 35  86  ? -59.652 -23.105  45.489  1.0  0.0  ?  86  U  z  O2  1
+ATOM 75787  N  N3  .  U IA 35  86  ? -57.683  -22.09  44.989  1.0  0.0  ?  86  U  z  N3  1
+ATOM 75788  C  C4  .  U IA 35  86  ? -56.471 -21.985  44.338  1.0  0.0  ?  86  U  z  C4  1
+ATOM 75789  O  O4  .  U IA 35  86  ?  -55.75  -21.01  44.554  1.0  0.0  ?  86  U  z  O4  1
+ATOM 75790  C  C5  .  U IA 35  86  ? -56.178 -23.065  43.447  1.0  0.0  ?  86  U  z  C5  1
+ATOM 75791  C  C6  .  U IA 35  86  ? -57.055 -24.064  43.309  1.0  0.0  ?  86  U  z  C6  1
+ATOM 80050  P   P  .  G IA 35 335  ? -55.709 -12.902  48.207  1.0  0.0  ? 335  G  z   P  1
+ATOM 80051  O OP1  .  G IA 35 335  ? -55.733  -14.37  47.991  1.0  0.0  ? 335  G  z OP1  1
+ATOM 80052  O OP2  .  G IA 35 335  ?  -55.02 -12.334  49.395  1.0  0.0  ? 335  G  z OP2  1
+ATOM 80053  O O5'  .  G IA 35 335  ? -55.021 -12.237  46.936  1.0  0.0  ? 335  G  z O5'  1
+ATOM 80054  C C5'  .  G IA 35 335  ? -54.776 -10.835   46.89  1.0  0.0  ? 335  G  z C5'  1
+ATOM 80055  C C4'  .  G IA 35 335  ? -55.168 -10.234  45.561  1.0  0.0  ? 335  G  z C4'  1
+ATOM 80056  O O4'  .  G IA 35 335  ? -54.354 -10.818  44.507  1.0  0.0  ? 335  G  z O4'  1
+ATOM 80057  C C3'  .  G IA 35 335  ? -56.625 -10.442  45.145  1.0  0.0  ? 335  G  z C3'  1
+ATOM 80058  O O3'  .  G IA 35 335  ? -57.089  -9.281  44.458  1.0  0.0  ? 335  G  z O3'  1
+ATOM 80059  C C2'  .  G IA 35 335  ? -56.536 -11.611  44.169  1.0  0.0  ? 335  G  z C2'  1
+ATOM 80060  O O2'  .  G IA 35 335  ? -57.588 -11.674  43.229  1.0  0.0  ? 335  G  z O2'  1
+ATOM 80061  C C1'  .  G IA 35 335  ? -55.191 -11.349  43.498  1.0  0.0  ? 335  G  z C1'  1
+ATOM 80062  N  N9  .  G IA 35 335  ? -54.546 -12.542  42.941  1.0  0.0  ? 335  G  z  N9  1
+ATOM 80063  C  C8  .  G IA 35 335  ? -54.083 -12.686  41.656  1.0  0.0  ? 335  G  z  C8  1
+ATOM 80064  N  N7  .  G IA 35 335  ?  -53.55 -13.854  41.426  1.0  0.0  ? 335  G  z  N7  1
+ATOM 80065  C  C5  .  G IA 35 335  ? -53.667 -14.526  42.633  1.0  0.0  ? 335  G  z  C5  1
+ATOM 80066  C  C6  .  G IA 35 335  ? -53.265 -15.838  42.993  1.0  0.0  ? 335  G  z  C6  1
+ATOM 80067  O  O6  .  G IA 35 335  ? -52.707 -16.694  42.296  1.0  0.0  ? 335  G  z  O6  1
+ATOM 80068  N  N1  .  G IA 35 335  ? -53.575 -16.121  44.318  1.0  0.0  ? 335  G  z  N1  1
+ATOM 80069  C  C2  .  G IA 35 335  ? -54.187  -15.26   45.19  1.0  0.0  ? 335  G  z  C2  1
+ATOM 80070  N  N2  .  G IA 35 335  ? -54.398 -15.721  46.431  1.0  0.0  ? 335  G  z  N2  1
+ATOM 80071  N  N3  .  G IA 35 335  ? -54.565 -14.037  44.865  1.0  0.0  ? 335  G  z  N3  1
+ATOM 80072  C  C4  .  G IA 35 335  ? -54.279 -13.733  43.581  1.0  0.0  ? 335  G  z  C4  1
+# 

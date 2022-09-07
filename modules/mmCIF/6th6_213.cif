@@ -1,0 +1,68 @@
+data_6th6_213
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 59064  P   P  .  U AA 27  42  ?  185.513   117.87  174.825  1.0  5.0  ?  42  U BA   P  1
+ATOM 59065  O OP1  .  U AA 27  42  ?  184.663  116.751  174.378  1.0  5.0  ?  42  U BA OP1  1
+ATOM 59066  O OP2  .  U AA 27  42  ?  186.253  118.662  173.824  1.0  5.0  ?  42  U BA OP2  1
+ATOM 59067  O O5'  .  U AA 27  42  ?  184.643  118.857  175.728  1.0  5.0  ?  42  U BA O5'  1
+ATOM 59068  C C5'  .  U AA 27  42  ?  183.883  118.352  176.817  1.0  5.0  ?  42  U BA C5'  1
+ATOM 59069  C C4'  .  U AA 27  42  ?  183.245  119.418  177.671  1.0  5.0  ?  42  U BA C4'  1
+ATOM 59070  O O4'  .  U AA 27  42  ?  184.259  120.276  178.258  1.0  5.0  ?  42  U BA O4'  1
+ATOM 59071  C C3'  .  U AA 27  42  ?  182.233  120.338   176.98  1.0  5.0  ?  42  U BA C3'  1
+ATOM 59072  O O3'  .  U AA 27  42  ?  181.015  120.408  177.727  1.0  5.0  ?  42  U BA O3'  1
+ATOM 59073  C C2'  .  U AA 27  42  ?  182.925  121.699   176.97  1.0  5.0  ?  42  U BA C2'  1
+ATOM 59074  O O2'  .  U AA 27  42  ?   182.05    122.8  177.042  1.0  5.0  ?  42  U BA O2'  1
+ATOM 59075  C C1'  .  U AA 27  42  ?  183.827  121.613  178.196  1.0  5.0  ?  42  U BA C1'  1
+ATOM 59076  N  N1  .  U AA 27  42  ?  184.991  122.515  178.168  1.0  5.0  ?  42  U BA  N1  1
+ATOM 59077  C  C2  .  U AA 27  42  ?  185.133  123.425  179.196  1.0  5.0  ?  42  U BA  C2  1
+ATOM 59078  O  O2  .  U AA 27  42  ?  184.382  123.513  180.138  1.0  5.0  ?  42  U BA  O2  1
+ATOM 59079  N  N3  .  U AA 27  42  ?   186.21  124.244  179.095  1.0  5.0  ?  42  U BA  N3  1
+ATOM 59080  C  C4  .  U AA 27  42  ?  187.145  124.276  178.102  1.0  5.0  ?  42  U BA  C4  1
+ATOM 59081  O  O4  .  U AA 27  42  ?  188.056  125.085  178.166  1.0  5.0  ?  42  U BA  O4  1
+ATOM 59082  C  C5  .  U AA 27  42  ?  186.935  123.321  177.075  1.0  5.0  ?  42  U BA  C5  1
+ATOM 59083  C  C6  .  U AA 27  42  ?  185.899  122.505  177.146  1.0  5.0  ?  42  U BA  C6  1
+ATOM 66038  P   P  .  G AA 27 366  ?  180.409  111.785   173.07  1.0  5.0  ? 366  G BA   P  1
+ATOM 66039  O OP1  .  G AA 27 366  ?  181.047  112.599  174.119  1.0  5.0  ? 366  G BA OP1  1
+ATOM 66040  O OP2  .  G AA 27 366  ?  181.241  111.153  172.033  1.0  5.0  ? 366  G BA OP2  1
+ATOM 66041  O O5'  .  G AA 27 366  ?  179.626  110.616  173.805  1.0  5.0  ? 366  G BA O5'  1
+ATOM 66042  C C5'  .  G AA 27 366  ?  178.644  110.899  174.786  1.0  5.0  ? 366  G BA C5'  1
+ATOM 66043  C C4'  .  G AA 27 366  ?  177.763  109.717  175.041  1.0  5.0  ? 366  G BA C4'  1
+ATOM 66044  O O4'  .  G AA 27 366  ?  177.232  109.233  173.784  1.0  5.0  ? 366  G BA O4'  1
+ATOM 66045  C C3'  .  G AA 27 366  ?  178.438  108.503  175.644  1.0  5.0  ? 366  G BA C3'  1
+ATOM 66046  O O3'  .  G AA 27 366  ?  178.632  108.599  177.045  1.0  5.0  ? 366  G BA O3'  1
+ATOM 66047  C C2'  .  G AA 27 366  ?  177.519  107.371  175.222  1.0  5.0  ? 366  G BA C2'  1
+ATOM 66048  O O2'  .  G AA 27 366  ?   176.39  107.274  176.069  1.0  5.0  ? 366  G BA O2'  1
+ATOM 66049  C C1'  .  G AA 27 366  ?   177.06  107.837  173.845  1.0  5.0  ? 366  G BA C1'  1
+ATOM 66050  N  N9  .  G AA 27 366  ?  177.799  107.192   172.74  1.0  5.0  ? 366  G BA  N9  1
+ATOM 66051  C  C8  .  G AA 27 366  ?  178.655  107.759  171.837  1.0  5.0  ? 366  G BA  C8  1
+ATOM 66052  N  N7  .  G AA 27 366  ?   179.14  106.931  170.972  1.0  5.0  ? 366  G BA  N7  1
+ATOM 66053  C  C5  .  G AA 27 366  ?  178.559  105.728  171.313  1.0  5.0  ? 366  G BA  C5  1
+ATOM 66054  C  C6  .  G AA 27 366  ?    178.7  104.451  170.726  1.0  5.0  ? 366  G BA  C6  1
+ATOM 66055  O  O6  .  G AA 27 366  ?  179.376  104.098  169.765  1.0  5.0  ? 366  G BA  O6  1
+ATOM 66056  N  N1  .  G AA 27 366  ?   177.94   103.52  171.381  1.0  5.0  ? 366  G BA  N1  1
+ATOM 66057  C  C2  .  G AA 27 366  ?   177.15  103.769  172.452  1.0  5.0  ? 366  G BA  C2  1
+ATOM 66058  N  N2  .  G AA 27 366  ?  176.496  102.731  172.933  1.0  5.0  ? 366  G BA  N2  1
+ATOM 66059  N  N3  .  G AA 27 366  ?  176.995  104.944  173.016  1.0  5.0  ? 366  G BA  N3  1
+ATOM 66060  C  C4  .  G AA 27 366  ?  177.728  105.874  172.395  1.0  5.0  ? 366  G BA  C4  1
+# 

@@ -1,0 +1,65 @@
+data_6th6_196
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 123457  P   P  .  C BA 28   90  ?  260.427  168.869  170.964  1.0  40.63  ?   90  C BB   P  1
+ATOM 123458  O OP1  .  C BA 28   90  ?   261.36  168.298  171.967  1.0  40.63  ?   90  C BB OP1  1
+ATOM 123459  O OP2  .  C BA 28   90  ?  258.965  168.656  171.102  1.0  40.63  ?   90  C BB OP2  1
+ATOM 123460  O O5'  .  C BA 28   90  ?  260.701  170.436  170.891  1.0  40.63  ?   90  C BB O5'  1
+ATOM 123461  C C5'  .  C BA 28   90  ?  262.027  170.936  170.882  1.0  40.63  ?   90  C BB C5'  1
+ATOM 123462  C C4'  .  C BA 28   90  ?   262.07  172.443  170.798  1.0  40.63  ?   90  C BB C4'  1
+ATOM 123463  O O4'  .  C BA 28   90  ?  261.387  172.917  169.609  1.0  40.63  ?   90  C BB O4'  1
+ATOM 123464  C C3'  .  C BA 28   90  ?  261.389  173.191  171.925  1.0  40.63  ?   90  C BB C3'  1
+ATOM 123465  O O3'  .  C BA 28   90  ?  262.173   173.24    173.1  1.0  40.63  ?   90  C BB O3'  1
+ATOM 123466  C C2'  .  C BA 28   90  ?  261.136  174.561  171.308  1.0  40.63  ?   90  C BB C2'  1
+ATOM 123467  O O2'  .  C BA 28   90  ?  262.308  175.359  171.355  1.0  40.63  ?   90  C BB O2'  1
+ATOM 123468  C C1'  .  C BA 28   90  ?  260.842    174.2  169.854  1.0  40.63  ?   90  C BB C1'  1
+ATOM 123469  N  N1  .  C BA 28   90  ?  259.392  174.195  169.538  1.0  40.63  ?   90  C BB  N1  1
+ATOM 123470  C  C2  .  C BA 28   90  ?  258.738  175.416  169.303  1.0  40.63  ?   90  C BB  C2  1
+ATOM 123471  O  O2  .  C BA 28   90  ?  259.382  176.474  169.387  1.0  40.63  ?   90  C BB  O2  1
+ATOM 123472  N  N3  .  C BA 28   90  ?   257.42  175.412    169.0  1.0  40.63  ?   90  C BB  N3  1
+ATOM 123473  C  C4  .  C BA 28   90  ?  256.765  174.256  168.926  1.0  40.63  ?   90  C BB  C4  1
+ATOM 123474  N  N4  .  C BA 28   90  ?  255.471  174.275  168.623  1.0  40.63  ?   90  C BB  N4  1
+ATOM 123475  C  C5  .  C BA 28   90  ?  257.398  173.006   169.15  1.0  40.63  ?   90  C BB  C5  1
+ATOM 123476  C  C6  .  C BA 28   90  ?  258.699  173.021  169.447  1.0  40.63  ?   90  C BB  C6  1
+ATOM  84631  P   P  .  C AA 27 1278  ?    266.9  166.089  175.116  1.0    5.0  ? 1278  C BA   P  1
+ATOM  84632  O OP1  .  C AA 27 1278  ?  265.725   166.64   174.41  1.0    5.0  ? 1278  C BA OP1  1
+ATOM  84633  O OP2  .  C AA 27 1278  ?  267.081  164.627  175.217  1.0    5.0  ? 1278  C BA OP2  1
+ATOM  84634  O O5'  .  C AA 27 1278  ?  268.218  166.634  174.417  1.0    5.0  ? 1278  C BA O5'  1
+ATOM  84635  C C5'  .  C AA 27 1278  ?  268.429  168.022  174.266  1.0    5.0  ? 1278  C BA C5'  1
+ATOM  84636  C C4'  .  C AA 27 1278  ?  269.847  168.361  173.892  1.0    5.0  ? 1278  C BA C4'  1
+ATOM  84637  O O4'  .  C AA 27 1278  ?  270.779  167.866  174.887  1.0    5.0  ? 1278  C BA O4'  1
+ATOM  84638  C C3'  .  C AA 27 1278  ?  270.385  167.791  172.591  1.0    5.0  ? 1278  C BA C3'  1
+ATOM  84639  O O3'  .  C AA 27 1278  ?  269.901  168.449  171.434  1.0    5.0  ? 1278  C BA O3'  1
+ATOM  84640  C C2'  .  C AA 27 1278  ?  271.885   167.92  172.789  1.0    5.0  ? 1278  C BA C2'  1
+ATOM  84641  O O2'  .  C AA 27 1278  ?  272.308  169.255  172.582  1.0    5.0  ? 1278  C BA O2'  1
+ATOM  84642  C C1'  .  C AA 27 1278  ?  272.025  167.596  174.274  1.0    5.0  ? 1278  C BA C1'  1
+ATOM  84643  N  N1  .  C AA 27 1278  ?  272.408  166.186  174.533  1.0    5.0  ? 1278  C BA  N1  1
+ATOM  84644  C  C2  .  C AA 27 1278  ?  273.687  165.673  174.251  1.0    5.0  ? 1278  C BA  C2  1
+ATOM  84645  O  O2  .  C AA 27 1278  ?  274.558  166.378  173.737  1.0    5.0  ? 1278  C BA  O2  1
+ATOM  84646  N  N3  .  C AA 27 1278  ?   273.95  164.377  174.532  1.0    5.0  ? 1278  C BA  N3  1
+ATOM  84647  C  C4  .  C AA 27 1278  ?  273.019  163.618  175.083  1.0    5.0  ? 1278  C BA  C4  1
+ATOM  84648  N  N4  .  C AA 27 1278  ?  273.285  162.355  175.354  1.0    5.0  ? 1278  C BA  N4  1
+ATOM  84649  C  C5  .  C AA 27 1278  ?  271.734  164.111  175.376  1.0    5.0  ? 1278  C BA  C5  1
+ATOM  84650  C  C6  .  C AA 27 1278  ?   271.48  165.375  175.099  1.0    5.0  ? 1278  C BA  C6  1
+# 

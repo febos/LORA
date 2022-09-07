@@ -1,0 +1,68 @@
+data_6th6_233
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1870  P   P  .  G  A  1  91  ?  223.465  235.332  289.309  1.0  5.0  ?  91  G Aa   P  1
+ATOM 1871  O OP1  .  G  A  1  91  ?  223.508  236.804  289.314  1.0  5.0  ?  91  G Aa OP1  1
+ATOM 1872  O OP2  .  G  A  1  91  ?  222.168  234.652   289.13  1.0  5.0  ?  91  G Aa OP2  1
+ATOM 1873  O O5'  .  G  A  1  91  ?  224.435  234.832  288.155  1.0  5.0  ?  91  G Aa O5'  1
+ATOM 1874  C C5'  .  G  A  1  91  ?  225.709  235.422  287.974  1.0  5.0  ?  91  G Aa C5'  1
+ATOM 1875  C C4'  .  G  A  1  91  ?  226.626  234.549  287.171  1.0  5.0  ?  91  G Aa C4'  1
+ATOM 1876  O O4'  .  G  A  1  91  ?  226.574  233.189  287.668  1.0  5.0  ?  91  G Aa O4'  1
+ATOM 1877  C C3'  .  G  A  1  91  ?  226.308  234.402  285.694  1.0  5.0  ?  91  G Aa C3'  1
+ATOM 1878  O O3'  .  G  A  1  91  ?  226.697  235.515  284.909  1.0  5.0  ?  91  G Aa O3'  1
+ATOM 1879  C C2'  .  G  A  1  91  ?  227.031  233.115  285.349  1.0  5.0  ?  91  G Aa C2'  1
+ATOM 1880  O O2'  .  G  A  1  91  ?  228.426  233.324  285.234  1.0  5.0  ?  91  G Aa O2'  1
+ATOM 1881  C C1'  .  G  A  1  91  ?  226.766  232.287    286.6  1.0  5.0  ?  91  G Aa C1'  1
+ATOM 1882  N  N9  .  G  A  1  91  ?  225.566  231.438  286.459  1.0  5.0  ?  91  G Aa  N9  1
+ATOM 1883  C  C8  .  G  A  1  91  ?    224.4  231.469  287.169  1.0  5.0  ?  91  G Aa  C8  1
+ATOM 1884  N  N7  .  G  A  1  91  ?  223.531  230.582  286.795  1.0  5.0  ?  91  G Aa  N7  1
+ATOM 1885  C  C5  .  G  A  1  91  ?  224.164  229.913  285.768  1.0  5.0  ?  91  G Aa  C5  1
+ATOM 1886  C  C6  .  G  A  1  91  ?  223.723  228.841  284.959  1.0  5.0  ?  91  G Aa  C6  1
+ATOM 1887  O  O6  .  G  A  1  91  ?  222.651  228.236  284.982  1.0  5.0  ?  91  G Aa  O6  1
+ATOM 1888  N  N1  .  G  A  1  91  ?  224.692  228.488  284.044  1.0  5.0  ?  91  G Aa  N1  1
+ATOM 1889  C  C2  .  G  A  1  91  ?  225.908  229.076  283.921  1.0  5.0  ?  91  G Aa  C2  1
+ATOM 1890  N  N2  .  G  A  1  91  ?  226.688  228.571  282.982  1.0  5.0  ?  91  G Aa  N2  1
+ATOM 1891  N  N3  .  G  A  1  91  ?  226.338   230.07  284.657  1.0  5.0  ?  91  G Aa  N3  1
+ATOM 1892  C  C4  .  G  A  1  91  ?  225.415  230.431  285.555  1.0  5.0  ?  91  G Aa  C4  1
+ATOM 6265  P   P  .  C  A  1 297  ?  219.743  241.981  287.049  1.0  5.0  ? 297  C Aa   P  1
+ATOM 6266  O OP1  .  C  A  1 297  ?  220.436  241.542  288.272  1.0  5.0  ? 297  C Aa OP1  1
+ATOM 6267  O OP2  .  C  A  1 297  ?  219.743  241.099  285.865  1.0  5.0  ? 297  C Aa OP2  1
+ATOM 6268  O O5'  .  C  A  1 297  ?  218.229  242.267  287.436  1.0  5.0  ? 297  C Aa O5'  1
+ATOM 6269  C C5'  .  C  A  1 297  ?  217.887  242.788  288.707  1.0  5.0  ? 297  C Aa C5'  1
+ATOM 6270  C C4'  .  C  A  1 297  ?  216.401  242.804  288.934  1.0  5.0  ? 297  C Aa C4'  1
+ATOM 6271  O O4'  .  C  A  1 297  ?  215.755  243.645  287.943  1.0  5.0  ? 297  C Aa O4'  1
+ATOM 6272  C C3'  .  C  A  1 297  ?  215.676  241.477  288.814  1.0  5.0  ? 297  C Aa C3'  1
+ATOM 6273  O O3'  .  C  A  1 297  ?  215.797  240.658  289.962  1.0  5.0  ? 297  C Aa O3'  1
+ATOM 6274  C C2'  .  C  A  1 297  ?  214.252  241.915  288.527  1.0  5.0  ? 297  C Aa C2'  1
+ATOM 6275  O O2'  .  C  A  1 297  ?  213.617  242.351  289.715  1.0  5.0  ? 297  C Aa O2'  1
+ATOM 6276  C C1'  .  C  A  1 297  ?  214.486   243.12  287.623  1.0  5.0  ? 297  C Aa C1'  1
+ATOM 6277  N  N1  .  C  A  1 297  ?   214.47  242.783   286.18  1.0  5.0  ? 297  C Aa  N1  1
+ATOM 6278  C  C2  .  C  A  1 297  ?  213.293   242.64  285.424  1.0  5.0  ? 297  C Aa  C2  1
+ATOM 6279  O  O2  .  C  A  1 297  ?   212.19  242.778  285.947  1.0  5.0  ? 297  C Aa  O2  1
+ATOM 6280  N  N3  .  C  A  1 297  ?  213.391  242.342  284.109  1.0  5.0  ? 297  C Aa  N3  1
+ATOM 6281  C  C4  .  C  A  1 297  ?  214.581  242.202   283.55  1.0  5.0  ? 297  C Aa  C4  1
+ATOM 6282  N  N4  .  C  A  1 297  ?  214.652   241.91  282.262  1.0  5.0  ? 297  C Aa  N4  1
+ATOM 6283  C  C5  .  C  A  1 297  ?  215.777  242.339   284.29  1.0  5.0  ? 297  C Aa  C5  1
+ATOM 6284  C  C6  .  C  A  1 297  ?   215.67  242.631  285.571  1.0  5.0  ? 297  C Aa  C6  1
+# 
