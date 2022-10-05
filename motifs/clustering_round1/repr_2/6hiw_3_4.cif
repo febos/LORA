@@ -1,0 +1,65 @@
+data_6HIW_3_4
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 163258  P   P  .  U EB  57  16  ? 210.246 235.458 265.135 1.0 20.84   0  16  U CA   P   1
+ATOM 163259  O OP1  .  U EB  57  16  ? 210.956 235.499 266.436 1.0 30.76   0  16  U CA OP1   1
+ATOM 163260  O OP2  .  U EB  57  16  ? 209.439 236.624 264.697 1.0 18.67  -1  16  U CA OP2   1
+ATOM 163261  O O5'  .  U EB  57  16  ? 211.340 235.175 264.018 1.0 18.97   0  16  U CA O5'   1
+ATOM 163262  C C5'  .  U EB  57  16  ? 210.948 234.728 262.731 1.0 19.53   0  16  U CA C5'   1
+ATOM 163263  C C4'  .  U EB  57  16  ? 211.774 235.356 261.638 1.0 19.77   0  16  U CA C4'   1
+ATOM 163264  O O4'  .  U EB  57  16  ? 210.947 236.264 260.867 1.0 18.35   0  16  U CA O4'   1
+ATOM 163265  C C3'  .  U EB  57  16  ? 212.991 236.163 262.092 1.0 20.47   0  16  U CA C3'   1
+ATOM 163266  O O3'  .  U EB  57  16  ? 214.072 235.935 261.191 1.0 21.97   0  16  U CA O3'   1
+ATOM 163267  C C2'  .  U EB  57  16  ? 212.515 237.606 261.958 1.0 18.88   0  16  U CA C2'   1
+ATOM 163268  O O2'  .  U EB  57  16  ? 213.541 238.543 261.723 1.0 25.71   0  16  U CA O2'   1
+ATOM 163269  C C1'  .  U EB  57  16  ? 211.589 237.513 260.761 1.0 17.91   0  16  U CA C1'   1
+ATOM 163270  N  N1  .  U EB  57  16  ? 210.566 238.555 260.729 1.0 21.97   0  16  U CA  N1   1
+ATOM 163271  C  C2  .  U EB  57  16  ? 210.641 239.410 259.660 1.0 25.71   0  16  U CA  C2   1
+ATOM 163272  O  O2  .  U EB  57  16  ? 211.496 239.304 258.798 1.0 25.79   0  16  U CA  O2   1
+ATOM 163273  N  N3  .  U EB  57  16  ? 209.679 240.380 259.642 1.0 31.25   0  16  U CA  N3   1
+ATOM 163274  C  C4  .  U EB  57  16  ? 208.679 240.566 260.572 1.0 33.93   0  16  U CA  C4   1
+ATOM 163275  O  O4  .  U EB  57  16  ? 207.886 241.497 260.402 1.0 33.42   0  16  U CA  O4   1
+ATOM 163276  C  C5  .  U EB  57  16  ? 208.676 239.629 261.662 1.0 26.08   0  16  U CA  C5   1
+ATOM 163277  C  C6  .  U EB  57  16  ? 209.605 238.671 261.703 1.0 22.28   0  16  U CA  C6   1
+ATOM 165925  P   P  .  U EB  57 143  ? 210.062 238.491 273.470 1.0 12.33   0 143  U CA   P   1
+ATOM 165926  O OP1  .  U EB  57 143  ? 210.505 238.890 272.112 1.0 19.18   0 143  U CA OP1   1
+ATOM 165927  O OP2  .  U EB  57 143  ? 209.222 239.428 274.259 1.0  9.40  -1 143  U CA OP2   1
+ATOM 165928  O O5'  .  U EB  57 143  ? 209.270 237.120 273.355 1.0 12.91   0 143  U CA O5'   1
+ATOM 165929  C C5'  .  U EB  57 143  ? 209.886 236.003 272.743 1.0 15.32   0 143  U CA C5'   1
+ATOM 165930  C C4'  .  U EB  57 143  ? 209.084 234.744 272.916 1.0 13.13   0 143  U CA C4'   1
+ATOM 165931  O O4'  .  U EB  57 143  ? 209.059 234.347 274.312 1.0  7.90   0 143  U CA O4'   1
+ATOM 165932  C C3'  .  U EB  57 143  ? 207.612 234.812 272.559 1.0 13.55   0 143  U CA C3'   1
+ATOM 165933  O O3'  .  U EB  57 143  ? 207.328 234.891 271.172 1.0 10.54   0 143  U CA O3'   1
+ATOM 165934  C C2'  .  U EB  57 143  ? 207.082 233.567 273.250 1.0 12.61   0 143  U CA C2'   1
+ATOM 165935  O O2'  .  U EB  57 143  ? 207.465 232.401 272.535 1.0 12.77   0 143  U CA O2'   1
+ATOM 165936  C C1'  .  U EB  57 143  ? 207.879 233.609 274.561 1.0  9.91   0 143  U CA C1'   1
+ATOM 165937  N  N1  .  U EB  57 143  ? 207.079 234.242 275.638 1.0  8.75   0 143  U CA  N1   1
+ATOM 165938  C  C2  .  U EB  57 143  ? 206.554 233.375 276.567 1.0  8.48   0 143  U CA  C2   1
+ATOM 165939  O  O2  .  U EB  57 143  ? 206.785 232.181 276.555 1.0  8.78   0 143  U CA  O2   1
+ATOM 165940  N  N3  .  U EB  57 143  ? 205.770 233.938 277.534 1.0 10.16   0 143  U CA  N3   1
+ATOM 165941  C  C4  .  U EB  57 143  ? 205.432 235.258 277.659 1.0 10.37   0 143  U CA  C4   1
+ATOM 165942  O  O4  .  U EB  57 143  ? 204.712 235.596 278.601 1.0 11.20   0 143  U CA  O4   1
+ATOM 165943  C  C5  .  U EB  57 143  ? 205.987 236.101 276.649 1.0  7.88   0 143  U CA  C5   1
+ATOM 165944  C  C6  .  U EB  57 143  ? 206.760 235.577 275.694 1.0  9.69   0 143  U CA  C6   1
+# 

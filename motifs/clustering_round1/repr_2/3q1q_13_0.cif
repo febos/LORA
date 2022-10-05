@@ -1,0 +1,65 @@
+data_3Q1Q_13_0
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1725  P   P  .  C  A   1  81  ? 79.414 -34.829 30.028 1.0 80.37  ?  81  C  B   P   1
+ATOM 1726  O OP1  .  C  A   1  81  ? 80.836 -34.937 29.627 1.0 80.14  ?  81  C  B OP1   1
+ATOM 1727  O OP2  .  C  A   1  81  ? 79.070 -34.912 31.466 1.0 80.14  ?  81  C  B OP2   1
+ATOM 1728  O O5'  .  C  A   1  81  ? 78.807 -33.459 29.468 1.0 80.37  ?  81  C  B O5'   1
+ATOM 1729  C C5'  .  C  A   1  81  ? 79.051 -33.017 28.135 1.0 80.37  ?  81  C  B C5'   1
+ATOM 1730  C C4'  .  C  A   1  81  ? 78.115 -31.890 27.742 1.0 80.37  ?  81  C  B C4'   1
+ATOM 1731  O O4'  .  C  A   1  81  ? 76.739 -32.310 27.895 1.0 80.37  ?  81  C  B O4'   1
+ATOM 1732  C C3'  .  C  A   1  81  ? 78.231 -30.628 28.582 1.0 80.37  ?  81  C  B C3'   1
+ATOM 1733  O O3'  .  C  A   1  81  ? 79.291 -29.821 28.074 1.0 80.37  ?  81  C  B O3'   1
+ATOM 1734  C C2'  .  C  A   1  81  ? 76.850 -29.990 28.441 1.0 80.37  ?  81  C  B C2'   1
+ATOM 1735  O O2'  .  C  A   1  81  ? 76.747 -29.079 27.365 1.0 80.37  ?  81  C  B O2'   1
+ATOM 1736  C C1'  .  C  A   1  81  ? 75.933 -31.188 28.202 1.0 80.37  ?  81  C  B C1'   1
+ATOM 1737  N  N1  .  C  A   1  81  ? 74.977 -31.486 29.337 1.0 80.14  ?  81  C  B  N1   1
+ATOM 1738  C  C2  .  C  A   1  81  ? 73.731 -30.816 29.424 1.0 80.14  ?  81  C  B  C2   1
+ATOM 1739  O  O2  .  C  A   1  81  ? 73.393 -29.979 28.573 1.0 80.14  ?  81  C  B  O2   1
+ATOM 1740  N  N3  .  C  A   1  81  ? 72.899 -31.111 30.465 1.0 80.14  ?  81  C  B  N3   1
+ATOM 1741  C  C4  .  C  A   1  81  ? 73.252 -32.026 31.379 1.0 80.14  ?  81  C  B  C4   1
+ATOM 1742  N  N4  .  C  A   1  81  ? 72.400 -32.263 32.381 1.0 80.14  ?  81  C  B  N4   1
+ATOM 1743  C  C5  .  C  A   1  81  ? 74.511 -32.707 31.322 1.0 80.14  ?  81  C  B  C5   1
+ATOM 1744  C  C6  .  C  A   1  81  ? 75.328 -32.405 30.299 1.0 80.14  ?  81  C  B  C6   1
+ATOM 4622  P   P  .  C  A   1 215  ? 88.716 -37.475 29.039 1.0 80.00  ? 215  C  B   P   1
+ATOM 4623  O OP1  .  C  A   1 215  ? 88.213 -38.708 29.685 1.0 80.00  ? 215  C  B OP1   1
+ATOM 4624  O OP2  .  C  A   1 215  ? 90.037 -37.513 28.369 1.0 80.00  ? 215  C  B OP2   1
+ATOM 4625  O O5'  .  C  A   1 215  ? 87.643 -36.958 27.964 1.0 80.00  ? 215  C  B O5'   1
+ATOM 4626  C C5'  .  C  A   1 215  ? 86.249 -36.870 28.278 1.0 80.00  ? 215  C  B C5'   1
+ATOM 4627  C C4'  .  C  A   1 215  ? 85.468 -36.044 27.268 1.0 80.00  ? 215  C  B C4'   1
+ATOM 4628  O O4'  .  C  A   1 215  ? 86.041 -34.721 27.114 1.0 80.00  ? 215  C  B O4'   1
+ATOM 4629  C C3'  .  C  A   1 215  ? 85.424 -36.574 25.842 1.0 80.00  ? 215  C  B C3'   1
+ATOM 4630  O O3'  .  C  A   1 215  ? 84.502 -37.654 25.703 1.0 80.00  ? 215  C  B O3'   1
+ATOM 4631  C C2'  .  C  A   1 215  ? 84.983 -35.328 25.079 1.0 80.00  ? 215  C  B C2'   1
+ATOM 4632  O O2'  .  C  A   1 215  ? 83.582 -35.111 25.084 1.0 80.00  ? 215  C  B O2'   1
+ATOM 4633  C C1'  .  C  A   1 215  ? 85.709 -34.214 25.829 1.0 80.00  ? 215  C  B C1'   1
+ATOM 4634  N  N1  .  C  A   1 215  ? 86.945 -33.697 25.105 1.0 80.00  ? 215  C  B  N1   1
+ATOM 4635  C  C2  .  C  A   1 215  ? 86.824 -32.808 24.004 1.0 80.00  ? 215  C  B  C2   1
+ATOM 4636  O  O2  .  C  A   1 215  ? 85.713 -32.410 23.618 1.0 80.00  ? 215  C  B  O2   1
+ATOM 4637  N  N3  .  C  A   1 215  ? 87.956 -32.371 23.379 1.0 80.00  ? 215  C  B  N3   1
+ATOM 4638  C  C4  .  C  A   1 215  ? 89.163 -32.786 23.788 1.0 80.00  ? 215  C  B  C4   1
+ATOM 4639  N  N4  .  C  A   1 215  ? 90.236 -32.328 23.134 1.0 80.00  ? 215  C  B  N4   1
+ATOM 4640  C  C5  .  C  A   1 215  ? 89.315 -33.691 24.888 1.0 80.00  ? 215  C  B  C5   1
+ATOM 4641  C  C6  .  C  A   1 215  ? 88.196 -34.115 25.501 1.0 80.00  ? 215  C  B  C6   1
+# 

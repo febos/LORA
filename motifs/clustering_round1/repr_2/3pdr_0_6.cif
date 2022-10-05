@@ -1,0 +1,67 @@
+data_3PDR_0_6
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1175  P   P  .  A  A   1  56  ? 45.640 18.825 11.400 1.0 32.92  ?  70  A  X   P   1
+ATOM 1176  O OP1  .  A  A   1  56  ? 45.395 20.190 10.865 1.0 34.35  ?  70  A  X OP1   1
+ATOM 1177  O OP2  .  A  A   1  56  ? 46.205 17.805 10.485 1.0 35.70  ?  70  A  X OP2   1
+ATOM 1178  O O5'  .  A  A   1  56  ? 46.446 18.863 12.773 1.0 28.01  ?  70  A  X O5'   1
+ATOM 1179  C C5'  .  A  A   1  56  ? 47.752 19.418 12.818 1.0 33.77  ?  70  A  X C5'   1
+ATOM 1180  C C4'  .  A  A   1  56  ? 47.967 20.226 14.073 1.0 30.22  ?  70  A  X C4'   1
+ATOM 1181  O O4'  .  A  A   1  56  ? 47.227 21.466 13.991 1.0 26.39  ?  70  A  X O4'   1
+ATOM 1182  C C3'  .  A  A   1  56  ? 47.505 19.582 15.374 1.0 29.35  ?  70  A  X C3'   1
+ATOM 1183  O O3'  .  A  A   1  56  ? 48.477 18.707 15.913 1.0 34.01  ?  70  A  X O3'   1
+ATOM 1184  C C2'  .  A  A   1  56  ? 47.252 20.782 16.269 1.0 28.32  ?  70  A  X C2'   1
+ATOM 1185  O O2'  .  A  A   1  56  ? 48.475 21.294 16.780 1.0 29.22  ?  70  A  X O2'   1
+ATOM 1186  C C1'  .  A  A   1  56  ? 46.727 21.801 15.261 1.0 27.13  ?  70  A  X C1'   1
+ATOM 1187  N  N9  .  A  A   1  56  ? 45.261 21.826 15.141 1.0 23.85  ?  70  A  X  N9   1
+ATOM 1188  C  C8  .  A  A   1  56  ? 44.503 21.255 14.148 1.0 25.79  ?  70  A  X  C8   1
+ATOM 1189  N  N7  .  A  A   1  56  ? 43.214 21.477 14.280 1.0 24.26  ?  70  A  X  N7   1
+ATOM 1190  C  C5  .  A  A   1  56  ? 43.138 22.272 15.418 1.0 24.59  ?  70  A  X  C5   1
+ATOM 1191  C  C6  .  A  A   1  56  ? 42.052 22.843 16.100 1.0 24.54  ?  70  A  X  C6   1
+ATOM 1192  N  N6  .  A  A   1  56  ? 40.788 22.712 15.703 1.0 22.61  ?  70  A  X  N6   1
+ATOM 1193  N  N1  .  A  A   1  56  ? 42.311 23.570 17.206 1.0 23.98  ?  70  A  X  N1   1
+ATOM 1194  C  C2  .  A  A   1  56  ? 43.581 23.700 17.612 1.0 26.41  ?  70  A  X  C2   1
+ATOM 1195  N  N3  .  A  A   1  56  ? 44.690 23.201 17.067 1.0 25.44  ?  70  A  X  N3   1
+ATOM 1196  C  C4  .  A  A   1  56  ? 44.395 22.495 15.959 1.0 25.42  ?  70  A  X  C4   1
+ATOM 3240  P   P  .  U  A   1 153  ? 48.491 25.147  6.103 1.0 40.23  ? 167  U  X   P   1
+ATOM 3241  O OP1  .  U  A   1 153  ? 48.917 24.528  4.822 1.0 38.42  ? 167  U  X OP1   1
+ATOM 3242  O OP2  .  U  A   1 153  ? 48.942 26.511  6.469 1.0 35.40  ? 167  U  X OP2   1
+ATOM 3243  O O5'  .  U  A   1 153  ? 46.896 25.094  6.213 1.0 36.38  ? 167  U  X O5'   1
+ATOM 3244  C C5'  .  U  A   1 153  ? 46.143 23.935  5.876 1.0 37.04  ? 167  U  X C5'   1
+ATOM 3245  C C4'  .  U  A   1 153  ? 44.673 24.163  6.135 1.0 31.42  ? 167  U  X C4'   1
+ATOM 3246  O O4'  .  U  A   1 153  ? 44.406 24.105  7.557 1.0 30.05  ? 167  U  X O4'   1
+ATOM 3247  C C3'  .  U  A   1 153  ? 44.140 25.524  5.718 1.0 33.26  ? 167  U  X C3'   1
+ATOM 3248  O O3'  .  U  A   1 153  ? 43.813 25.557  4.345 1.0 35.64  ? 167  U  X O3'   1
+ATOM 3249  C C2'  .  U  A   1 153  ? 42.927 25.705  6.621 1.0 34.63  ? 167  U  X C2'   1
+ATOM 3250  O O2'  .  U  A   1 153  ? 41.839 24.932  6.129 1.0 33.37  ? 167  U  X O2'   1
+ATOM 3251  C C1'  .  U  A   1 153  ? 43.408 25.037  7.907 1.0 29.60  ? 167  U  X C1'   1
+ATOM 3252  N  N1  .  U  A   1 153  ? 43.970 25.911  8.960 1.0 30.32  ? 167  U  X  N1   1
+ATOM 3253  C  C2  .  U  A   1 153  ? 43.086 26.569  9.791 1.0 27.37  ? 167  U  X  C2   1
+ATOM 3254  O  O2  .  U  A   1 153  ? 41.873 26.495  9.687 1.0 25.04  ? 167  U  X  O2   1
+ATOM 3255  N  N3  .  U  A   1 153  ? 43.672 27.338 10.761 1.0 26.71  ? 167  U  X  N3   1
+ATOM 3256  C  C4  .  U  A   1 153  ? 45.020 27.509 10.999 1.0 28.61  ? 167  U  X  C4   1
+ATOM 3257  O  O4  .  U  A   1 153  ? 45.362 28.242 11.931 1.0 27.03  ? 167  U  X  O4   1
+ATOM 3258  C  C5  .  U  A   1 153  ? 45.883 26.782 10.105 1.0 30.57  ? 167  U  X  C5   1
+ATOM 3259  C  C6  .  U  A   1 153  ? 45.340 26.024  9.137 1.0 32.16  ? 167  U  X  C6   1
+# 

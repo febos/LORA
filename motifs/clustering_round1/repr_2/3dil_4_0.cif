@@ -1,0 +1,68 @@
+data_3DIL_4_0
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM  906  P   P  .  G  A   1  43  ? -0.082 52.029  6.016 1.0 20.66  ?  43  G  A   P   1
+ATOM  907  O OP1  .  G  A   1  43  ?  0.522 53.351  6.292 1.0 20.87  ?  43  G  A OP1   1
+ATOM  908  O OP2  .  G  A   1  43  ? -0.075 51.499  4.632 1.0 20.66  ?  43  G  A OP2   1
+ATOM  909  O O5'  .  G  A   1  43  ?  0.600 50.930  6.954 1.0 19.93  ?  43  G  A O5'   1
+ATOM  910  C C5'  .  G  A   1  43  ?  0.766 51.117  8.363 1.0 18.79  ?  43  G  A C5'   1
+ATOM  911  C C4'  .  G  A   1  43  ?  0.997 49.780  9.063 1.0 18.43  ?  43  G  A C4'   1
+ATOM  912  O O4'  .  G  A   1  43  ? -0.150 48.910  8.858 1.0 17.78  ?  43  G  A O4'   1
+ATOM  913  C C3'  .  G  A   1  43  ?  2.209 48.975  8.597 1.0 18.38  ?  43  G  A C3'   1
+ATOM  914  O O3'  .  G  A   1  43  ?  2.766 48.243  9.681 1.0 19.50  ?  43  G  A O3'   1
+ATOM  915  C C2'  .  G  A   1  43  ?  1.611 48.043  7.543 1.0 17.59  ?  43  G  A C2'   1
+ATOM  916  O O2'  .  G  A   1  43  ?  2.331 46.837  7.363 1.0 17.08  ?  43  G  A O2'   1
+ATOM  917  C C1'  .  G  A   1  43  ?  0.219 47.766  8.108 1.0 16.73  ?  43  G  A C1'   1
+ATOM  918  N  N9  .  G  A   1  43  ? -0.729 47.568  7.016 1.0 15.76  ?  43  G  A  N9   1
+ATOM  919  C  C8  .  G  A   1  43  ? -1.547 48.504  6.431 1.0 15.48  ?  43  G  A  C8   1
+ATOM  920  N  N7  .  G  A   1  43  ? -2.270 48.029  5.455 1.0 15.08  ?  43  G  A  N7   1
+ATOM  921  C  C5  .  G  A   1  43  ? -1.899 46.693  5.382 1.0 15.17  ?  43  G  A  C5   1
+ATOM  922  C  C6  .  G  A   1  43  ? -2.348 45.669  4.512 1.0 14.99  ?  43  G  A  C6   1
+ATOM  923  O  O6  .  G  A   1  43  ? -3.187 45.765  3.606 1.0 15.34  ?  43  G  A  O6   1
+ATOM  924  N  N1  .  G  A   1  43  ? -1.715 44.449  4.768 1.0 14.70  ?  43  G  A  N1   1
+ATOM  925  C  C2  .  G  A   1  43  ? -0.768 44.248  5.751 1.0 14.94  ?  43  G  A  C2   1
+ATOM  926  N  N2  .  G  A   1  43  ? -0.264 43.011  5.859 1.0 15.17  ?  43  G  A  N2   1
+ATOM  927  N  N3  .  G  A   1  43  ? -0.341 45.202  6.575 1.0 14.81  ?  43  G  A  N3   1
+ATOM  928  C  C4  .  G  A   1  43  ? -0.948 46.394  6.334 1.0 15.25  ?  43  G  A  C4   1
+ATOM 2011  P   P  .  U  A   1  93  ? -2.085 40.286 16.417 1.0 21.03  ?  93  U  A   P   1
+ATOM 2012  O OP1  .  U  A   1  93  ? -2.634 41.333 17.305 1.0 21.30  ?  93  U  A OP1   1
+ATOM 2013  O OP2  .  U  A   1  93  ? -2.999 39.511 15.547 1.0 20.90  ?  93  U  A OP2   1
+ATOM 2014  O O5'  .  U  A   1  93  ? -0.959 40.926 15.473 1.0 20.52  ?  93  U  A O5'   1
+ATOM 2015  C C5'  .  U  A   1  93  ?  0.093 41.729 16.015 1.0 20.63  ?  93  U  A C5'   1
+ATOM 2016  C C4'  .  U  A   1  93  ?  1.129 42.054 14.954 1.0 20.11  ?  93  U  A C4'   1
+ATOM 2017  O O4'  .  U  A   1  93  ?  1.782 40.831 14.521 1.0 20.09  ?  93  U  A O4'   1
+ATOM 2018  C C3'  .  U  A   1  93  ?  0.581 42.643 13.660 1.0 20.19  ?  93  U  A C3'   1
+ATOM 2019  O O3'  .  U  A   1  93  ?  0.311 44.034 13.782 1.0 20.54  ?  93  U  A O3'   1
+ATOM 2020  C C2'  .  U  A   1  93  ?  1.723 42.341 12.695 1.0 20.11  ?  93  U  A C2'   1
+ATOM 2021  O O2'  .  U  A   1  93  ?  2.815 43.231 12.815 1.0 20.54  ?  93  U  A O2'   1
+ATOM 2022  C C1'  .  U  A   1  93  ?  2.125 40.936 13.149 1.0 19.68  ?  93  U  A C1'   1
+ATOM 2023  N  N1  .  U  A   1  93  ?  1.460 39.862 12.323 1.0 19.31  ?  93  U  A  N1   1
+ATOM 2024  C  C2  .  U  A   1  93  ?  2.080 39.441 11.156 1.0 19.21  ?  93  U  A  C2   1
+ATOM 2025  O  O2  .  U  A   1  93  ?  3.148 39.882 10.764 1.0 18.99  ?  93  U  A  O2   1
+ATOM 2026  N  N3  .  U  A   1  93  ?  1.400 38.467 10.455 1.0 19.13  ?  93  U  A  N3   1
+ATOM 2027  C  C4  .  U  A   1  93  ?  0.186 37.891 10.796 1.0 18.83  ?  93  U  A  C4   1
+ATOM 2028  O  O4  .  U  A   1  93  ? -0.302 37.029 10.074 1.0 18.77  ?  93  U  A  O4   1
+ATOM 2029  C  C5  .  U  A   1  93  ? -0.402 38.380 12.018 1.0 18.86  ?  93  U  A  C5   1
+ATOM 2030  C  C6  .  U  A   1  93  ?  0.241 39.326 12.717 1.0 19.12  ?  93  U  A  C6   1
+# 

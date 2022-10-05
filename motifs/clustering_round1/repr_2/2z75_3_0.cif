@@ -1,0 +1,71 @@
+data_2Z75_3_0
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM  825  P   P  .  G  B   2  21  ? 29.495  5.660 14.707 1.0 37.73  ?  41  G  B   P   1
+ATOM  826  O OP1  .  G  B   2  21  ? 28.272  5.265 13.951 1.0 37.83  ?  41  G  B OP1   1
+ATOM  827  O OP2  .  G  B   2  21  ? 29.410  5.844 16.184 1.0 37.32  ?  41  G  B OP2   1
+ATOM  828  O O5'  .  G  B   2  21  ? 30.642  4.592 14.390 1.0 37.37  ?  41  G  B O5'   1
+ATOM  829  C C5'  .  G  B   2  21  ? 30.978  4.246 13.040 1.0 38.72  ?  41  G  B C5'   1
+ATOM  830  C C4'  .  G  B   2  21  ? 31.465  2.804 12.948 1.0 38.76  ?  41  G  B C4'   1
+ATOM  831  O O4'  .  G  B   2  21  ? 32.537  2.594 13.904 1.0 39.51  ?  41  G  B O4'   1
+ATOM  832  C C3'  .  G  B   2  21  ? 30.364  1.807 13.333 1.0 39.59  ?  41  G  B C3'   1
+ATOM  833  O O3'  .  G  B   2  21  ? 30.407  0.617 12.543 1.0 38.69  ?  41  G  B O3'   1
+ATOM  834  C C2'  .  G  B   2  21  ? 30.618  1.455 14.794 1.0 39.83  ?  41  G  B C2'   1
+ATOM  835  O O2'  .  G  B   2  21  ? 30.404  0.087 15.065 1.0 42.39  ?  41  G  B O2'   1
+ATOM  836  C C1'  .  G  B   2  21  ? 32.119  1.674 14.879 1.0 39.82  ?  41  G  B C1'   1
+ATOM  837  N  N9  .  G  B   2  21  ? 32.760  1.934 16.159 1.0 39.60  ?  41  G  B  N9   1
+ATOM  838  C  C8  .  G  B   2  21  ? 32.205  2.434 17.309 1.0 40.46  ?  41  G  B  C8   1
+ATOM  839  N  N7  .  G  B   2  21  ? 33.048  2.469 18.306 1.0 39.61  ?  41  G  B  N7   1
+ATOM  840  C  C5  .  G  B   2  21  ? 34.233  1.978 17.768 1.0 40.45  ?  41  G  B  C5   1
+ATOM  841  C  C6  .  G  B   2  21  ? 35.510  1.776 18.364 1.0 40.94  ?  41  G  B  C6   1
+ATOM  842  O  O6  .  G  B   2  21  ? 35.860  1.988 19.532 1.0 43.19  ?  41  G  B  O6   1
+ATOM  843  N  N1  .  G  B   2  21  ? 36.425  1.267 17.450 1.0 38.91  ?  41  G  B  N1   1
+ATOM  844  C  C2  .  G  B   2  21  ? 36.153  0.983 16.134 1.0 40.08  ?  41  G  B  C2   1
+ATOM  845  N  N2  .  G  B   2  21  ? 37.170  0.506 15.410 1.0 39.81  ?  41  G  B  N2   1
+ATOM  846  N  N3  .  G  B   2  21  ? 34.970  1.157 15.571 1.0 38.08  ?  41  G  B  N3   1
+ATOM  847  C  C4  .  G  B   2  21  ? 34.068  1.656 16.441 1.0 39.34  ?  41  G  B  C4   1
+ATOM 1853  P   P  .  G  B   2  70  ? 25.962  5.863  7.944 1.0 39.67  ?  90  G  B   P   1
+ATOM 1854  O OP1  .  G  B   2  70  ? 26.221  6.762  9.105 1.0 39.65  ?  90  G  B OP1   1
+ATOM 1855  O OP2  .  G  B   2  70  ? 27.089  5.435  7.075 1.0 38.34  ?  90  G  B OP2   1
+ATOM 1856  O O5'  .  G  B   2  70  ? 25.206  4.562  8.489 1.0 37.97  ?  90  G  B O5'   1
+ATOM 1857  C C5'  .  G  B   2  70  ? 24.014  4.667  9.278 1.0 37.92  ?  90  G  B C5'   1
+ATOM 1858  C C4'  .  G  B   2  70  ? 23.568  3.300  9.775 1.0 38.08  ?  90  G  B C4'   1
+ATOM 1859  O O4'  .  G  B   2  70  ? 23.391  2.406  8.651 1.0 36.87  ?  90  G  B O4'   1
+ATOM 1860  C C3'  .  G  B   2  70  ? 24.605  2.639 10.680 1.0 37.78  ?  90  G  B C3'   1
+ATOM 1861  O O3'  .  G  B   2  70  ? 23.964  1.899 11.724 1.0 39.70  ?  90  G  B O3'   1
+ATOM 1862  C C2'  .  G  B   2  70  ? 25.405  1.712  9.758 1.0 36.65  ?  90  G  B C2'   1
+ATOM 1863  O O2'  .  G  B   2  70  ? 25.751  0.502 10.389 1.0 35.49  ?  90  G  B O2'   1
+ATOM 1864  C C1'  .  G  B   2  70  ? 24.369  1.395  8.681 1.0 35.78  ?  90  G  B C1'   1
+ATOM 1865  N  N9  .  G  B   2  70  ? 24.772  1.068  7.320 1.0 33.91  ?  90  G  B  N9   1
+ATOM 1866  C  C8  .  G  B   2  70  ? 25.228  1.920  6.349 1.0 35.20  ?  90  G  B  C8   1
+ATOM 1867  N  N7  .  G  B   2  70  ? 25.431  1.328  5.201 1.0 34.71  ?  90  G  B  N7   1
+ATOM 1868  C  C5  .  G  B   2  70  ? 25.106 -0.001  5.437 1.0 33.39  ?  90  G  B  C5   1
+ATOM 1869  C  C6  .  G  B   2  70  ? 25.123 -1.119  4.566 1.0 32.66  ?  90  G  B  C6   1
+ATOM 1870  O  O6  .  G  B   2  70  ? 25.440 -1.157  3.381 1.0 31.80  ?  90  G  B  O6   1
+ATOM 1871  N  N1  .  G  B   2  70  ? 24.719 -2.283  5.213 1.0 32.56  ?  90  G  B  N1   1
+ATOM 1872  C  C2  .  G  B   2  70  ? 24.344 -2.362  6.530 1.0 33.93  ?  90  G  B  C2   1
+ATOM 1873  N  N2  .  G  B   2  70  ? 23.998 -3.585  6.971 1.0 33.32  ?  90  G  B  N2   1
+ATOM 1874  N  N3  .  G  B   2  70  ? 24.315 -1.323  7.354 1.0 31.95  ?  90  G  B  N3   1
+ATOM 1875  C  C4  .  G  B   2  70  ? 24.710 -0.182  6.743 1.0 33.91  ?  90  G  B  C4   1
+# 

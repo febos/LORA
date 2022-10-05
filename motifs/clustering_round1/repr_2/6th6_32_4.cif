@@ -1,0 +1,65 @@
+data_6TH6_32_4
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM  922  P   P  .  C  A   1  44  ? 223.973 236.615 267.108 1.0 33.82  ?  44  C Aa   P   1
+ATOM  923  O OP1  .  C  A   1  44  ? 223.065 235.688 267.830 1.0 33.82  ?  44  C Aa OP1   1
+ATOM  924  O OP2  .  C  A   1  44  ? 224.948 236.061 266.143 1.0 33.82  ?  44  C Aa OP2   1
+ATOM  925  O O5'  .  C  A   1  44  ? 223.086 237.693 266.343 1.0 33.82  ?  44  C Aa O5'   1
+ATOM  926  C C5'  .  C  A   1  44  ? 221.712 237.422 266.089 1.0 33.82  ?  44  C Aa C5'   1
+ATOM  927  C C4'  .  C  A   1  44  ? 221.192 238.109 264.853 1.0 33.82  ?  44  C Aa C4'   1
+ATOM  928  O O4'  .  C  A   1  44  ? 221.181 239.550 265.051 1.0 33.82  ?  44  C Aa O4'   1
+ATOM  929  C C3'  .  C  A   1  44  ? 221.977 237.854 263.567 1.0 33.82  ?  44  C Aa C3'   1
+ATOM  930  O O3'  .  C  A   1  44  ? 221.076 237.653 262.483 1.0 33.82  ?  44  C Aa O3'   1
+ATOM  931  C C2'  .  C  A   1  44  ? 222.755 239.152 263.370 1.0 33.82  ?  44  C Aa C2'   1
+ATOM  932  O O2'  .  C  A   1  44  ? 223.094 239.441 262.031 1.0 33.82  ?  44  C Aa O2'   1
+ATOM  933  C C1'  .  C  A   1  44  ? 221.783 240.177 263.942 1.0 33.82  ?  44  C Aa C1'   1
+ATOM  934  N  N1  .  C  A   1  44  ? 222.417 241.431 264.378 1.0 33.82  ?  44  C Aa  N1   1
+ATOM  935  C  C2  .  C  A   1  44  ? 222.215 242.588 263.612 1.0 33.82  ?  44  C Aa  C2   1
+ATOM  936  O  O2  .  C  A   1  44  ? 221.509 242.543 262.595 1.0 33.82  ?  44  C Aa  O2   1
+ATOM  937  N  N3  .  C  A   1  44  ? 222.795 243.744 263.998 1.0 33.82  ?  44  C Aa  N3   1
+ATOM  938  C  C4  .  C  A   1  44  ? 223.550 243.771 265.093 1.0 33.82  ?  44  C Aa  C4   1
+ATOM  939  N  N4  .  C  A   1  44  ? 224.095 244.937 265.424 1.0 33.82  ?  44  C Aa  N4   1
+ATOM  940  C  C5  .  C  A   1  44  ? 223.777 242.616 265.891 1.0 33.82  ?  44  C Aa  C5   1
+ATOM  941  C  C6  .  C  A   1  44  ? 223.202 241.478 265.499 1.0 33.82  ?  44  C Aa  C6   1
+ATOM 1933  P   P  .  C  A   1  94  ? 221.733 235.009 273.110 1.0  5.00  ?  94  C Aa   P   1
+ATOM 1934  O OP1  .  C  A   1  94  ? 222.283 235.416 271.803 1.0  5.00  ?  94  C Aa OP1   1
+ATOM 1935  O OP2  .  C  A   1  94  ? 221.571 236.038 274.158 1.0  5.00  ?  94  C Aa OP2   1
+ATOM 1936  O O5'  .  C  A   1  94  ? 220.327 234.289 272.887 1.0  5.00  ?  94  C Aa O5'   1
+ATOM 1937  C C5'  .  C  A   1  94  ? 220.186 233.236 271.941 1.0  5.00  ?  94  C Aa C5'   1
+ATOM 1938  C C4'  .  C  A   1  94  ? 218.928 232.421 272.123 1.0  5.00  ?  94  C Aa C4'   1
+ATOM 1939  O O4'  .  C  A   1  94  ? 218.713 232.136 273.532 1.0  5.00  ?  94  C Aa O4'   1
+ATOM 1940  C C3'  .  C  A   1  94  ? 217.638 233.064 271.613 1.0  5.00  ?  94  C Aa C3'   1
+ATOM 1941  O O3'  .  C  A   1  94  ? 216.802 232.088 270.991 1.0  5.00  ?  94  C Aa O3'   1
+ATOM 1942  C C2'  .  C  A   1  94  ? 216.974 233.559 272.889 1.0  5.00  ?  94  C Aa C2'   1
+ATOM 1943  O O2'  .  C  A   1  94  ? 215.576 233.698 272.805 1.0  5.00  ?  94  C Aa O2'   1
+ATOM 1944  C C1'  .  C  A   1  94  ? 217.391 232.484 273.884 1.0  5.00  ?  94  C Aa C1'   1
+ATOM 1945  N  N1  .  C  A   1  94  ? 217.374 232.908 275.286 1.0  5.00  ?  94  C Aa  N1   1
+ATOM 1946  C  C2  .  C  A   1  94  ? 216.356 232.491 276.148 1.0  5.00  ?  94  C Aa  C2   1
+ATOM 1947  O  O2  .  C  A   1  94  ? 215.451 231.767 275.734 1.0  5.00  ?  94  C Aa  O2   1
+ATOM 1948  N  N3  .  C  A   1  94  ? 216.382 232.903 277.428 1.0  5.00  ?  94  C Aa  N3   1
+ATOM 1949  C  C4  .  C  A   1  94  ? 217.366 233.685 277.841 1.0  5.00  ?  94  C Aa  C4   1
+ATOM 1950  N  N4  .  C  A   1  94  ? 217.357 234.073 279.100 1.0  5.00  ?  94  C Aa  N4   1
+ATOM 1951  C  C5  .  C  A   1  94  ? 218.407 234.117 276.990 1.0  5.00  ?  94  C Aa  C5   1
+ATOM 1952  C  C6  .  C  A   1  94  ? 218.370 233.707 275.736 1.0  5.00  ?  94  C Aa  C6   1
+# 

@@ -1,0 +1,65 @@
+data_3IGI_0_5
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1444  P   P  .  C  A   1  69  ? 24.659 91.760 338.916 1.0  73.42  ?  69  C  A   P   1
+ATOM 1445  O OP1  .  C  A   1  69  ? 25.959 91.043 338.939 1.0  79.92  ?  69  C  A OP1   1
+ATOM 1446  O OP2  .  C  A   1  69  ? 23.544 91.235 338.094 1.0  57.42  ?  69  C  A OP2   1
+ATOM 1447  O O5'  .  C  A   1  69  ? 24.174 91.912 340.417 1.0  52.19  ?  69  C  A O5'   1
+ATOM 1448  C C5'  .  C  A   1  69  ? 25.007 92.568 341.344 1.0  57.79  ?  69  C  A C5'   1
+ATOM 1449  C C4'  .  C  A   1  69  ? 24.361 92.602 342.696 1.0  69.39  ?  69  C  A C4'   1
+ATOM 1450  O O4'  .  C  A   1  69  ? 23.204 93.473 342.645 1.0  77.82  ?  69  C  A O4'   1
+ATOM 1451  C C3'  .  C  A   1  69  ? 23.779 91.277 343.154 1.0  69.71  ?  69  C  A C3'   1
+ATOM 1452  O O3'  .  C  A   1  69  ? 24.773 90.442 343.713 1.0  83.73  ?  69  C  A O3'   1
+ATOM 1453  C C2'  .  C  A   1  69  ? 22.757 91.721 344.187 1.0  61.67  ?  69  C  A C2'   1
+ATOM 1454  O O2'  .  C  A   1  69  ? 23.368 92.085 345.406 1.0  63.62  ?  69  C  A O2'   1
+ATOM 1455  C C1'  .  C  A   1  69  ? 22.216 92.989 343.537 1.0  59.90  ?  69  C  A C1'   1
+ATOM 1456  N  N1  .  C  A   1  69  ? 20.948 92.809 342.822 1.0  45.42  ?  69  C  A  N1   1
+ATOM 1457  C  C2  .  C  A   1  69  ? 19.794 92.663 343.584 1.0  52.45  ?  69  C  A  C2   1
+ATOM 1458  O  O2  .  C  A   1  69  ? 19.905 92.637 344.818 1.0  59.36  ?  69  C  A  O2   1
+ATOM 1459  N  N3  .  C  A   1  69  ? 18.596 92.547 342.968 1.0  48.05  ?  69  C  A  N3   1
+ATOM 1460  C  C4  .  C  A   1  69  ? 18.535 92.558 341.639 1.0  50.81  ?  69  C  A  C4   1
+ATOM 1461  N  N4  .  C  A   1  69  ? 17.339 92.461 341.078 1.0  55.43  ?  69  C  A  N4   1
+ATOM 1462  C  C5  .  C  A   1  69  ? 19.708 92.675 340.828 1.0  50.40  ?  69  C  A  C5   1
+ATOM 1463  C  C6  .  C  A   1  69  ? 20.884 92.798 341.457 1.0  44.63  ?  69  C  A  C6   1
+ATOM 5359  P   P  .  U  A   1 251  ? 30.924 91.482 338.720 1.0  90.92  ? 251  U  A   P   1
+ATOM 5360  O OP1  .  U  A   1 251  ? 30.579 90.056 338.975 1.0  89.33  ? 251  U  A OP1   1
+ATOM 5361  O OP2  .  U  A   1 251  ? 31.387 92.341 339.843 1.0  83.73  ? 251  U  A OP2   1
+ATOM 5362  O O5'  .  U  A   1 251  ? 31.996 91.543 337.541 1.0  89.90  ? 251  U  A O5'   1
+ATOM 5363  C C5'  .  U  A   1 251  ? 31.720 90.949 336.272 1.0  92.35  ? 251  U  A C5'   1
+ATOM 5364  C C4'  .  U  A   1 251  ? 32.804 91.294 335.273 1.0 100.59  ? 251  U  A C4'   1
+ATOM 5365  O O4'  .  U  A   1 251  ? 32.796 92.725 335.023 1.0 102.64  ? 251  U  A O4'   1
+ATOM 5366  C C3'  .  U  A   1 251  ? 34.232 90.990 335.699 1.0 109.50  ? 251  U  A C3'   1
+ATOM 5367  O O3'  .  U  A   1 251  ? 34.562 89.630 335.428 1.0 107.28  ? 251  U  A O3'   1
+ATOM 5368  C C2'  .  U  A   1 251  ? 35.033 91.959 334.836 1.0 112.98  ? 251  U  A C2'   1
+ATOM 5369  O O2'  .  U  A   1 251  ? 35.182 91.489 333.511 1.0 124.85  ? 251  U  A O2'   1
+ATOM 5370  C C1'  .  U  A   1 251  ? 34.123 93.190 334.838 1.0 100.07  ? 251  U  A C1'   1
+ATOM 5371  N  N1  .  U  A   1 251  ? 34.429 94.138 335.920 1.0  92.75  ? 251  U  A  N1   1
+ATOM 5372  C  C2  .  U  A   1 251  ? 35.297 95.174 335.646 1.0  93.60  ? 251  U  A  C2   1
+ATOM 5373  O  O2  .  U  A   1 251  ? 35.813 95.332 334.561 1.0 106.03  ? 251  U  A  O2   1
+ATOM 5374  N  N3  .  U  A   1 251  ? 35.540 96.020 336.697 1.0  91.21  ? 251  U  A  N3   1
+ATOM 5375  C  C4  .  U  A   1 251  ? 35.017 95.934 337.969 1.0  98.14  ? 251  U  A  C4   1
+ATOM 5376  O  O4  .  U  A   1 251  ? 35.335 96.773 338.816 1.0  97.64  ? 251  U  A  O4   1
+ATOM 5377  C  C5  .  U  A   1 251  ? 34.130 94.834 338.172 1.0  97.45  ? 251  U  A  C5   1
+ATOM 5378  C  C6  .  U  A   1 251  ? 33.872 93.996 337.166 1.0  92.49  ? 251  U  A  C6   1
+# 

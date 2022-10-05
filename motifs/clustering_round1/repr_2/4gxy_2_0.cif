@@ -1,0 +1,69 @@
+data_4GXY_2_0
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+ATOM 1004  P   P  .  A  A   1  53  ? 41.920 12.253 25.282 1.0  94.25  ?  53  A  A   P   1
+ATOM 1005  O OP1  .  A  A   1  53  ? 43.337 12.016 24.891 1.0  94.71  ?  53  A  A OP1   1
+ATOM 1006  O OP2  .  A  A   1  53  ? 41.402 11.618 26.517 1.0 101.87  ?  53  A  A OP2   1
+ATOM 1007  O O5'  .  A  A   1  53  ? 41.631 13.794 25.310 1.0  86.27  ?  53  A  A O5'   1
+ATOM 1008  C C5'  .  A  A   1  53  ? 41.802 14.594 24.156 1.0  88.51  ?  53  A  A C5'   1
+ATOM 1009  C C4'  .  A  A   1  53  ? 41.492 16.017 24.487 1.0  93.77  ?  53  A  A C4'   1
+ATOM 1010  O O4'  .  A  A   1  53  ? 40.043 16.203 24.502 1.0  96.49  ?  53  A  A O4'   1
+ATOM 1011  C C3'  .  A  A   1  53  ? 41.916 16.434 25.883 1.0  90.40  ?  53  A  A C3'   1
+ATOM 1012  O O3'  .  A  A   1  53  ? 43.345 16.659 26.014 1.0  88.40  ?  53  A  A O3'   1
+ATOM 1013  C C2'  .  A  A   1  53  ? 40.959 17.581 26.182 1.0  81.70  ?  53  A  A C2'   1
+ATOM 1014  O O2'  .  A  A   1  53  ? 41.285 18.717 25.401 1.0  86.09  ?  53  A  A O2'   1
+ATOM 1015  C C1'  .  A  A   1  53  ? 39.668 17.000 25.603 1.0  84.67  ?  53  A  A C1'   1
+ATOM 1016  N  N9  .  A  A   1  53  ? 38.917 16.139 26.558 1.0  85.29  ?  53  A  A  N9   1
+ATOM 1017  C  C8  .  A  A   1  53  ? 39.174 14.840 26.940 1.0  86.82  ?  53  A  A  C8   1
+ATOM 1018  N  N7  .  A  A   1  53  ? 38.301 14.315 27.772 1.0  84.52  ?  53  A  A  N7   1
+ATOM 1019  C  C5  .  A  A   1  53  ? 37.372 15.307 27.945 1.0  80.24  ?  53  A  A  C5   1
+ATOM 1020  C  C6  .  A  A   1  53  ? 36.203 15.368 28.714 1.0  79.68  ?  53  A  A  C6   1
+ATOM 1021  N  N6  .  A  A   1  53  ? 35.742 14.387 29.488 1.0  77.14  ?  53  A  A  N6   1
+ATOM 1022  N  N1  .  A  A   1  53  ? 35.497 16.518 28.665 1.0  83.82  ?  53  A  A  N1   1
+ATOM 1023  C  C2  .  A  A   1  53  ? 35.942 17.527 27.903 1.0  82.33  ?  53  A  A  C2   1
+ATOM 1024  N  N3  .  A  A   1  53  ? 37.028 17.600 27.143 1.0  86.38  ?  53  A  A  N3   1
+ATOM 1025  C  C4  .  A  A   1  53  ? 37.722 16.436 27.203 1.0  88.82  ?  53  A  A  C4   1
+ATOM 1556  P   P  .  A  A   1  79  ? 32.711 19.322 34.874 1.0  88.82  ?  79  A  A   P   1
+ATOM 1557  O OP1  .  A  A   1  79  ? 31.824 19.344 33.675 1.0  82.57  ?  79  A  A OP1   1
+ATOM 1558  O OP2  .  A  A   1  79  ? 32.185 19.843 36.161 1.0  87.00  ?  79  A  A OP2   1
+ATOM 1559  O O5'  .  A  A   1  79  ? 33.312 17.857 35.076 1.0  89.45  ?  79  A  A O5'   1
+ATOM 1560  C C5'  .  A  A   1  79  ? 32.562 16.703 34.695 1.0  94.58  ?  79  A  A C5'   1
+ATOM 1561  C C4'  .  A  A   1  79  ? 33.450 15.516 34.383 1.0  88.75  ?  79  A  A C4'   1
+ATOM 1562  O O4'  .  A  A   1  79  ? 34.196 15.772 33.161 1.0  80.58  ?  79  A  A O4'   1
+ATOM 1563  C C3'  .  A  A   1  79  ? 34.483 15.171 35.454 1.0  89.39  ?  79  A  A C3'   1
+ATOM 1564  O O3'  .  A  A   1  79  ? 34.632 13.756 35.535 1.0  92.48  ?  79  A  A O3'   1
+ATOM 1565  C C2'  .  A  A   1  79  ? 35.765 15.783 34.900 1.0  86.00  ?  79  A  A C2'   1
+ATOM 1566  O O2'  .  A  A   1  79  ? 36.956 15.175 35.355 1.0  84.71  ?  79  A  A O2'   1
+ATOM 1567  C C1'  .  A  A   1  79  ? 35.574 15.593 33.401 1.0  78.71  ?  79  A  A C1'   1
+ATOM 1568  N  N9  .  A  A   1  79  ? 36.313 16.556 32.586 1.0  83.95  ?  79  A  A  N9   1
+ATOM 1569  C  C8  .  A  A   1  79  ? 36.052 17.889 32.374 1.0  83.67  ?  79  A  A  C8   1
+ATOM 1570  N  N7  .  A  A   1  79  ? 36.919 18.483 31.585 1.0  77.88  ?  79  A  A  N7   1
+ATOM 1571  C  C5  .  A  A   1  79  ? 37.805 17.473 31.253 1.0  79.46  ?  79  A  A  C5   1
+ATOM 1572  C  C6  .  A  A   1  79  ? 38.949 17.443 30.443 1.0  79.77  ?  79  A  A  C6   1
+ATOM 1573  N  N6  .  A  A   1  79  ? 39.450 18.487 29.774 1.0  79.77  ?  79  A  A  N6   1
+ATOM 1574  N  N1  .  A  A   1  79  ? 39.583 16.256 30.338 1.0  85.17  ?  79  A  A  N1   1
+ATOM 1575  C  C2  .  A  A   1  79  ? 39.108 15.181 30.980 1.0  82.53  ?  79  A  A  C2   1
+ATOM 1576  N  N3  .  A  A   1  79  ? 38.055 15.086 31.767 1.0  82.03  ?  79  A  A  N3   1
+ATOM 1577  C  C4  .  A  A   1  79  ? 37.443 16.280 31.861 1.0  84.10  ?  79  A  A  C4   1
+# 

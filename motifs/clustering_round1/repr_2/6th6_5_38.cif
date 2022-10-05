@@ -1,0 +1,68 @@
+data_6TH6_5_38
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_formal_charge 
+_atom_site.auth_seq_id 
+_atom_site.auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.auth_atom_id 
+_atom_site.pdbx_PDB_model_num 
+HETATM  77023  P   P  . 5MC AA  27  875  ? 204.975 158.163 211.491 1.0 5.0  ?  875 5MC BA   P   1
+HETATM  77024  O OP1  . 5MC AA  27  875  ? 205.649 157.557 212.693 1.0 5.0  ?  875 5MC BA OP1   1
+HETATM  77025  O OP2  . 5MC AA  27  875  ? 205.832 158.674 210.367 1.0 5.0  ?  875 5MC BA OP2   1
+HETATM  77026  O O5'  . 5MC AA  27  875  ? 204.007 157.076 210.844 1.0 5.0  ?  875 5MC BA O5'   1
+HETATM  77027  C C5'  . 5MC AA  27  875  ? 203.032 156.400 211.624 1.0 5.0  ?  875 5MC BA C5'   1
+HETATM  77028  C C4'  . 5MC AA  27  875  ? 202.547 155.144 210.949 1.0 5.0  ?  875 5MC BA C4'   1
+HETATM  77029  O O4'  . 5MC AA  27  875  ? 203.414 154.842 209.840 1.0 5.0  ?  875 5MC BA O4'   1
+HETATM  77030  C C3'  . 5MC AA  27  875  ? 202.547 153.883 211.806 1.0 5.0  ?  875 5MC BA C3'   1
+HETATM  77031  O O3'  . 5MC AA  27  875  ? 201.324 153.752 212.524 1.0 5.0  ?  875 5MC BA O3'   1
+HETATM  77032  C C2'  . 5MC AA  27  875  ? 202.780 152.755 210.800 1.0 5.0  ?  875 5MC BA C2'   1
+HETATM  77033  O O2'  . 5MC AA  27  875  ? 201.548 152.250 210.309 1.0 5.0  ?  875 5MC BA O2'   1
+HETATM  77034  C C1'  . 5MC AA  27  875  ? 203.517 153.455 209.655 1.0 5.0  ?  875 5MC BA C1'   1
+HETATM  77035  N  N1  . 5MC AA  27  875  ? 204.957 153.110 209.572 1.0 5.0  ?  875 5MC BA  N1   1
+HETATM  77036  C  C2  . 5MC AA  27  875  ? 205.458 151.761 209.184 1.0 5.0  ?  875 5MC BA  C2   1
+HETATM  77037  O  O2  . 5MC AA  27  875  ? 204.711 150.885 208.959 1.0 5.0  ?  875 5MC BA  O2   1
+HETATM  77038  N  N3  . 5MC AA  27  875  ? 206.908 151.505 209.100 1.0 5.0  ?  875 5MC BA  N3   1
+HETATM  77039  C  C4  . 5MC AA  27  875  ? 207.843 152.567 209.379 1.0 5.0  ?  875 5MC BA  C4   1
+HETATM  77040  N  N4  . 5MC AA  27  875  ? 209.256 152.346 209.308 1.0 5.0  ?  875 5MC BA  N4   1
+HETATM  77041  C  C5  . 5MC AA  27  875  ? 207.364 153.917 209.754 1.0 5.0  ?  875 5MC BA  C5   1
+HETATM  77042  C  C6  . 5MC AA  27  875  ? 205.912 154.163 209.835 1.0 5.0  ?  875 5MC BA  C6   1
+HETATM  77043  C CM5  . 5MC AA  27  875  ? 208.339 155.050 210.048 1.0 5.0  ?  875 5MC BA CM5   1
+  ATOM 102890  P   P  .   A AA  27 2127  ? 204.223 142.801 206.355 1.0 5.0  ? 2127   A BA   P   1
+  ATOM 102891  O OP1  .   A AA  27 2127  ? 203.341 142.598 205.195 1.0 5.0  ? 2127   A BA OP1   1
+  ATOM 102892  O OP2  .   A AA  27 2127  ? 205.530 142.126 206.387 1.0 5.0  ? 2127   A BA OP2   1
+  ATOM 102893  O O5'  .   A AA  27 2127  ? 204.483 144.364 206.480 1.0 5.0  ? 2127   A BA O5'   1
+  ATOM 102894  C C5'  .   A AA  27 2127  ? 203.515 145.302 206.040 1.0 5.0  ? 2127   A BA C5'   1
+  ATOM 102895  C C4'  .   A AA  27 2127  ? 203.840 146.699 206.464 1.0 5.0  ? 2127   A BA C4'   1
+  ATOM 102896  O O4'  .   A AA  27 2127  ? 204.492 146.670 207.752 1.0 5.0  ? 2127   A BA O4'   1
+  ATOM 102897  C C3'  .   A AA  27 2127  ? 204.796 147.473 205.566 1.0 5.0  ? 2127   A BA C3'   1
+  ATOM 102898  O O3'  .   A AA  27 2127  ? 204.145 148.086 204.468 1.0 5.0  ? 2127   A BA O3'   1
+  ATOM 102899  C C2'  .   A AA  27 2127  ? 205.420 148.468 206.522 1.0 5.0  ? 2127   A BA C2'   1
+  ATOM 102900  O O2'  .   A AA  27 2127  ? 204.560 149.571 206.719 1.0 5.0  ? 2127   A BA O2'   1
+  ATOM 102901  C C1'  .   A AA  27 2127  ? 205.484 147.662 207.812 1.0 5.0  ? 2127   A BA C1'   1
+  ATOM 102902  N  N9  .   A AA  27 2127  ? 206.780 147.003 208.070 1.0 5.0  ? 2127   A BA  N9   1
+  ATOM 102903  C  C8  .   A AA  27 2127  ? 207.022 145.661 208.067 1.0 5.0  ? 2127   A BA  C8   1
+  ATOM 102904  N  N7  .   A AA  27 2127  ? 208.223 145.315 208.365 1.0 5.0  ? 2127   A BA  N7   1
+  ATOM 102905  C  C5  .   A AA  27 2127  ? 208.822 146.516 208.608 1.0 5.0  ? 2127   A BA  C5   1
+  ATOM 102906  C  C6  .   A AA  27 2127  ? 210.120 146.815 208.990 1.0 5.0  ? 2127   A BA  C6   1
+  ATOM 102907  N  N6  .   A AA  27 2127  ? 211.018 145.888 209.179 1.0 5.0  ? 2127   A BA  N6   1
+  ATOM 102908  N  N1  .   A AA  27 2127  ? 210.460 148.090 209.165 1.0 5.0  ? 2127   A BA  N1   1
+  ATOM 102909  C  C2  .   A AA  27 2127  ? 209.514 148.990 208.974 1.0 5.0  ? 2127   A BA  C2   1
+  ATOM 102910  N  N3  .   A AA  27 2127  ? 208.250 148.853 208.612 1.0 5.0  ? 2127   A BA  N3   1
+  ATOM 102911  C  C4  .   A AA  27 2127  ? 207.960 147.566 208.441 1.0 5.0  ? 2127   A BA  C4   1
+# 
