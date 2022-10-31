@@ -19,7 +19,7 @@ The coordinate files from PDB (Berman et al. 2000) and their annotations of the 
 - **pdb_files.zip** - Coordinate files in PDB format
 - **clarna.zip** - ClaRNA annotations (Waleń et al. 2014)
 - **dssr.zip** - DSSR annotations (Lu et al. 2015)
-- **fr3d.zip** - FR3D annotations (Petrov et al. 2013)
+- **fr3d.zip** - FR3D annotations (Sarver et al. 2008)
 - **mc-annotate.zip** - MC-Annotate annotations (Gendron et al. 2001)
 - **rnaview.zip** - RNAView annotations (Yang et al. 2003)
 
