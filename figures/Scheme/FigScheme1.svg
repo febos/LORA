@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="FigScheme1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.11322959"
+     inkscape:cx="1655.9276"
+     inkscape:cy="1011.2198"
+     inkscape:window-width="1860"
+     inkscape:window-height="1136"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-14142.844"
+       y="-7720.8177"
+       width="23410.298"
+       height="7777.1552"
+       id="rect17223" />
+    <rect
+       x="-13361.607"
+       y="-6794.3988"
+       width="26181.28"
+       height="16945.143"
+       id="rect2455" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect31"
+       width="7254.8223"
+       height="5037.5303"
+       x="-3767.8489"
+       y="-2188.2439" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2453"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2455)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:594.448;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-2076.179"
+       y="-548.83923"
+       id="text4309"
+       transform="matrix(39.152747,0,0,123.67526,77630.422,70766.552)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-896.69476,1746.7276)"
+       id="text17221"
+       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17223);fill:#000000;fill-opacity:1;stroke:none"
+       x="23271.141"
+       y="0"><tspan
+         x="3881.0888"
+         y="-7597.4853"
+         id="tspan91835"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91827">RNA sequence:</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91829"> </tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00020599365 -0.00016021729 0 0 0 0 0 0 -0.00016021729 0 0 0 0 0 0.00020599365 0 0 0 0 0 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91831">CUGCCGCCGAGAUGCUAGCUCGCGUACGCUGCAUCGCGUGUGCGUGUCGCAG</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91833">
+</tspan></tspan><tspan
+         x="3078.5518"
+         y="-7425.4546"
+         id="tspan91845"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91837">RNA secondary structure:</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91839"> </tspan><tspan
+           dx="0 0 0 0 -0.00016021729 -0.00016021729 -0.00016021729 0 0 0 -0.00016021729 -0.00016021729 0 -0.00016021729 0 0 -0.00016021729 -0.00016021729 -0.00016021729 0 -0.00016021729 0 -0.00016021729 -0.00016021729 0.00032806396 -0.00016021729 0 -0.00016021729 0 0.00032806396 -0.00016021729 0 -0.00016021729 0 -0.00016021729 0 0.00032806396 -0.00016021729 0 -0.00016021729 0 -0.00016021729 0 0 -0.00016021729 0 -0.00016021729 0 0.00032806396 -0.00016021729 0 -0.00016021729"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91841">((((...((((.......))..))..(((...[[...)))...]]...))))</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91843">
+</tspan></tspan><tspan
+         x="4227.1166"
+         y="-7253.4238"
+         id="tspan91855"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91847">Stems (S):</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91849"> </tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00020599365 -0.00016021729 0 0 0 0 0 0 -0.00016021729 0 0 0 0 0 0.00020599365 0 0 0 0 0 0 0.00020599365 0 0 0 0 0.00020599365 0.00045013428 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91851">0000___1122_______22__11__333___44___333___44___0000</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91853">
+</tspan></tspan><tspan
+         x="3961.1668"
+         y="-7081.3931"
+         id="tspan91865"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91857">Stem regions:</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91859"> </tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 -0.00016021729 0 -0.00016021729 0 0 0 0.00020599365 -0.00016021729 0 0 0 0 0 0 -0.00016021729 0 -0.00016021729 0 0 -0.00016021729 0 -0.00016021729 0 -0.00016021729 0 0 -0.00016021729 0 -0.00016021729 0 0.00032806396 -0.00016021729 0 -0.00016021729 0 -0.00016021729 0 0 -0.00016021729"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91861">AAAA___BBCC_______DD__EE__FFF___GG___HHH___II___JJJJ</tspan><tspan
+           dx="-0.00016021729"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91863">
+</tspan></tspan><tspan
+         x="3624.3838"
+         y="-6909.3623"
+         id="tspan91875"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91867">Non-stem regions:</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91869"> </tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00020599365 -0.00016021729 0 0 0 0 0 0 -0.00016021729 0 0 0 0 0 0.00020599365 0 0 0 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91871">____aaa____ccccccc__dd__ee___fff__ggg___hhh__iii____</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91873">
+</tspan></tspan><tspan
+         x="2125.9501"
+         y="-6737.3315"
+         id="tspan91885"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031 0 0.00011825562 0 0 0 0 -0.00011825562 0.00012588501"
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91877">Loop of stem 0 (isolated junction, JI0):</tspan><tspan
+           dx="0.0001373291"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91879"> </tspan><tspan
+           dx="0 0 0 0.00020599365 0.00020599365 0 0 0 0 0 0.00020599365 0.00020599365 0 0 0 0.00020599365 -0.0002822876 0.00020599365 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91881">____000_________________00___________________000____</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91883">
+</tspan></tspan><tspan
+         x="2182.3953"
+         y="-6565.3008"
+         id="tspan91895"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011825562"
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91887">Loop of stem 1 (classical bulge, BC1):</tspan><tspan
+           dx="-0.00010681152"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91889"> </tspan><tspan
+           dx="0.00016021729 0 0 0 0 0 0 0 0 0.00020599365 0 0 0 0 0 0 0 0 0 -0.0002822876 0 0.00020599365 0 0 0 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00045013428 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91891">____________________11______________________________</tspan><tspan
+           dx="-0.0002822876"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91893">
+</tspan></tspan><tspan
+         x="2061.9529"
+         y="-6393.27"
+         id="tspan91905"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011825562 -0.00016021729 0.00016021729 -0.00012588501 0 0 0 0.00012207031"
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91897">Loop of stem 2 (classical hairpin, HC2):</tspan><tspan
+           dx="-0.00010681152"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91899"> </tspan><tspan
+           dx="0.00016021729 0 0 0 0 0 0 0 0 0.00020599365 0 0 0 0 -0.0002822876 0 0 0 0 -0.0002822876 0 0.00020599365 0 0 0 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00045013428 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91901">___________2222222__________________________________</tspan><tspan
+           dx="-0.0002822876"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91903">
+</tspan></tspan><tspan
+         x="1560.1963"
+         y="-6221.2392"
+         id="tspan91915"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00012207031 0 0 0 0 0 0 0.00011825562 -0.00016021729 0.00016021729 -0.00012588501 0 0 0 0.00012207031 -0.00016021729 0 0.00015640259"
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91907">Loop of stem 3 (pseudoknotted hairpin, HP3):</tspan><tspan
+           dx="-0.00010681152"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91909"> </tspan><tspan
+           dx="0.00016021729 0 0 0.00020599365 0.00020599365 0 0 0 0.00020599365 0 0.00020599365 -0.0002822876 0 -0.0002822876 0 0.00020599365 -0.0002822876 0.00020599365 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91911">_____________________________33333333_______________</tspan><tspan
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91913">
+</tspan></tspan><tspan
+         x="1560.1963"
+         y="-6049.2085"
+         id="tspan91923"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00012207031 0 0 0 0 0 0 0.00011825562 -0.00016021729 0.00016021729 -0.00012588501 0 0 0 0.00012207031 -0.00016021729 0 0.00015640259"
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan91917">Loop of stem 4 (pseudoknotted hairpin, HP4):</tspan><tspan
+           dx="-0.00010681152"
+           style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:end;text-anchor:end"
+           id="tspan91919"> </tspan><tspan
+           dx="0.00016021729 0 0 0.00020599365 0.00020599365 0 0 0 0.00020599365 0 0.00020599365 -0.0002822876 0 -0.0002822876 0 0.00020599365 -0.0002822876 0.00020599365 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876 0 0.00020599365 0 0.00020599365 -0.0002822876 0 0.00020599365 0 -0.0002822876 0 0 0.00020599365 0 -0.0002822876 0 0.00020599365 0.00020599365 0 -0.0002822876"
+           style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+           id="tspan91921">__________________________________444444444_________</tspan></tspan></text>
+  </g>
+</svg>
