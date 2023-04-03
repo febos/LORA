@@ -1,0 +1,71 @@
+data_1288_1254_6TH6_37_1_7
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+HETATM   83 P   P . 4AC A 1   5 ? 171.815 154.485 200.637 1.0 5.0 ?   5 4AC Aa   P 1
+HETATM   84 O OP1 . 4AC A 1   5 ? 170.904 153.366 200.298 1.0 5.0 ?   5 4AC Aa OP1 1
+HETATM   85 O OP2 . 4AC A 1   5 ? 173.276 154.338 200.302 1.0 5.0 ?   5 4AC Aa OP2 1
+HETATM   86 O O5' . 4AC A 1   5 ? 171.268 155.822 199.984 1.0 5.0 ?   5 4AC Aa O5' 1
+HETATM   87 C C5' . 4AC A 1   5 ? 171.072 155.915 198.593 1.0 5.0 ?   5 4AC Aa C5' 1
+HETATM   88 C C4' . 4AC A 1   5 ? 171.165 157.327 198.115 1.0 5.0 ?   5 4AC Aa C4' 1
+HETATM   89 O O4' . 4AC A 1   5 ? 171.822 158.148 199.110 1.0 5.0 ?   5 4AC Aa O4' 1
+HETATM   90 C C3' . 4AC A 1   5 ? 172.000 157.546 196.874 1.0 5.0 ?   5 4AC Aa C3' 1
+HETATM   91 O O3' . 4AC A 1   5 ? 171.352 157.151 195.679 1.0 5.0 ?   5 4AC Aa O3' 1
+HETATM   92 C C2' . 4AC A 1   5 ? 172.308 159.027 196.968 1.0 5.0 ?   5 4AC Aa C2' 1
+HETATM   93 O O2' . 4AC A 1   5 ? 171.195 159.813 196.591 1.0 5.0 ?   5 4AC Aa O2' 1
+HETATM   94 C C1' . 4AC A 1   5 ? 172.534 159.183 198.468 1.0 5.0 ?   5 4AC Aa C1' 1
+HETATM   95 N  N1 . 4AC A 1   5 ? 173.966 159.041 198.794 1.0 5.0 ?   5 4AC Aa  N1 1
+HETATM   96 C  C2 . 4AC A 1   5 ? 174.946 160.087 198.341 1.0 5.0 ?   5 4AC Aa  C2 1
+HETATM   97 O  O2 . 4AC A 1   5 ? 174.580 161.050 197.735 1.0 5.0 ?   5 4AC Aa  O2 1
+HETATM   98 N  N3 . 4AC A 1   5 ? 176.357 159.929 198.648 1.0 5.0 ?   5 4AC Aa  N3 1
+HETATM   99 C  C4 . 4AC A 1   5 ? 176.832 158.777 199.372 1.0 5.0 ?   5 4AC Aa  C4 1
+HETATM  100 N  N4 . 4AC A 1   5 ? 178.253 158.693 199.635 1.0 5.0 ?   5 4AC Aa  N4 1
+HETATM  101 C  C5 . 4AC A 1   5 ? 175.876 157.738 199.816 1.0 5.0 ?   5 4AC Aa  C5 1
+HETATM  102 C  C6 . 4AC A 1   5 ? 174.431 157.893 199.503 1.0 5.0 ?   5 4AC Aa  C6 1
+HETATM  103 C  C7 . 4AC A 1   5 ? 178.893 157.602 200.348 1.0 5.0 ?   5 4AC Aa  C7 1
+HETATM  104 O  O7 . 4AC A 1   5 ? 178.277 156.698 200.767 1.0 5.0 ?   5 4AC Aa  O7 1
+HETATM  105 C CM7 . 4AC A 1   5 ? 180.456 157.665 200.551 1.0 5.0 ?   5 4AC Aa CM7 1
+  ATOM 9542 P   P .   G A 1 451 ? 166.124 161.933 192.147 1.0 5.0 ? 451   G Aa   P 1
+  ATOM 9543 O OP1 .   G A 1 451 ? 165.069 161.016 192.621 1.0 5.0 ? 451   G Aa OP1 1
+  ATOM 9544 O OP2 .   G A 1 451 ? 166.011 163.379 192.427 1.0 5.0 ? 451   G Aa OP2 1
+  ATOM 9545 O O5' .   G A 1 451 ? 167.512 161.380 192.690 1.0 5.0 ? 451   G Aa O5' 1
+  ATOM 9546 C C5' .   G A 1 451 ? 167.832 161.440 194.077 1.0 5.0 ? 451   G Aa C5' 1
+  ATOM 9547 C C4' .   G A 1 451 ? 169.297 161.722 194.296 1.0 5.0 ? 451   G Aa C4' 1
+  ATOM 9548 O O4' .   G A 1 451 ? 169.925 162.333 193.135 1.0 5.0 ? 451   G Aa O4' 1
+  ATOM 9549 C C3' .   G A 1 451 ? 169.578 162.717 195.400 1.0 5.0 ? 451   G Aa C3' 1
+  ATOM 9550 O O3' .   G A 1 451 ? 169.323 162.046 196.624 1.0 5.0 ? 451   G Aa O3' 1
+  ATOM 9551 C C2' .   G A 1 451 ? 171.021 163.097 195.094 1.0 5.0 ? 451   G Aa C2' 1
+  ATOM 9552 O O2' .   G A 1 451 ? 171.954 162.140 195.545 1.0 5.0 ? 451   G Aa O2' 1
+  ATOM 9553 C C1' .   G A 1 451 ? 170.991 163.172 193.562 1.0 5.0 ? 451   G Aa C1' 1
+  ATOM 9554 N  N9 .   G A 1 451 ? 170.724 164.526 193.090 1.0 5.0 ? 451   G Aa  N9 1
+  ATOM 9555 C  C8 .   G A 1 451 ? 169.508 165.035 192.700 1.0 5.0 ? 451   G Aa  C8 1
+  ATOM 9556 N  N7 .   G A 1 451 ? 169.564 166.293 192.360 1.0 5.0 ? 451   G Aa  N7 1
+  ATOM 9557 C  C5 .   G A 1 451 ? 170.893 166.642 192.552 1.0 5.0 ? 451   G Aa  C5 1
+  ATOM 9558 C  C6 .   G A 1 451 ? 171.555 167.888 192.361 1.0 5.0 ? 451   G Aa  C6 1
+  ATOM 9559 O  O6 .   G A 1 451 ? 171.085 168.955 191.953 1.0 5.0 ? 451   G Aa  O6 1
+  ATOM 9560 N  N1 .   G A 1 451 ? 172.910 167.800 192.664 1.0 5.0 ? 451   G Aa  N1 1
+  ATOM 9561 C  C2 .   G A 1 451 ? 173.543 166.669 193.115 1.0 5.0 ? 451   G Aa  C2 1
+  ATOM 9562 N  N2 .   G A 1 451 ? 174.853 166.790 193.365 1.0 5.0 ? 451   G Aa  N2 1
+  ATOM 9563 N  N3 .   G A 1 451 ? 172.938 165.505 193.308 1.0 5.0 ? 451   G Aa  N3 1
+  ATOM 9564 C  C4 .   G A 1 451 ? 171.621 165.564 193.009 1.0 5.0 ? 451   G Aa  C4 1
+# 

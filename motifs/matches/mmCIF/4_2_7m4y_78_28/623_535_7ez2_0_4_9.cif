@@ -1,0 +1,67 @@
+data_623_535_7EZ2_0_4_9
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+HETATM   61 O O2' . SSU A 1   4 ? 188.042 168.104 228.639 1.0 24.97 ?   4 SSU A O2' 1
+HETATM   62 C C2' . SSU A 1   4 ? 187.032 167.197 229.048 1.0 24.97 ?   4 SSU A C2' 1
+HETATM   63 C C1' . SSU A 1   4 ? 187.692 165.987 229.713 1.0 24.97 ?   4 SSU A C1' 1
+HETATM   64 O O4' . SSU A 1   4 ? 187.756 166.249 231.102 1.0 24.97 ?   4 SSU A O4' 1
+HETATM   65 C C4' . SSU A 1   4 ? 187.128 167.527 231.394 1.0 24.97 ?   4 SSU A C4' 1
+HETATM   66 C C5' . SSU A 1   4 ? 186.471 167.492 232.751 1.0 24.97 ?   4 SSU A C5' 1
+HETATM   67 O O5' . SSU A 1   4 ? 185.355 166.615 232.792 1.0 24.97 ?   4 SSU A O5' 1
+HETATM   68 P   P . SSU A 1   4 ? 184.561 166.392 234.157 1.0 24.97 ?   4 SSU A   P 1
+HETATM   69 S S1P . SSU A 1   4 ? 185.330 164.781 235.051 1.0 24.97 ?   4 SSU A S1P 1
+HETATM   70 O OP2 . SSU A 1   4 ? 182.994 166.439 233.845 1.0 24.97 ?   4 SSU A OP2 1
+HETATM   71 C C3' . SSU A 1   4 ? 186.218 167.768 230.199 1.0 24.97 ?   4 SSU A C3' 1
+HETATM   72 O O3' . SSU A 1   4 ? 185.875 169.133 230.022 1.0 24.97 ?   4 SSU A O3' 1
+HETATM   73 N  N1 . SSU A 1   4 ? 186.926 164.737 229.497 1.0 24.97 ?   4 SSU A  N1 1
+HETATM   74 C  C6 . SSU A 1   4 ? 186.335 164.073 230.546 1.0 24.97 ?   4 SSU A  C6 1
+HETATM   75 C  C5 . SSU A 1   4 ? 185.640 162.942 230.397 1.0 24.97 ?   4 SSU A  C5 1
+HETATM   76 C  C4 . SSU A 1   4 ? 185.498 162.375 229.089 1.0 24.97 ?   4 SSU A  C4 1
+HETATM   77 O  O4 . SSU A 1   4 ? 184.887 161.340 228.814 1.0 24.97 ?   4 SSU A  O4 1
+HETATM   78 N  N3 . SSU A 1   4 ? 186.119 163.081 228.083 1.0 24.97 ?   4 SSU A  N3 1
+HETATM   79 C  C2 . SSU A 1   4 ? 186.839 164.241 228.209 1.0 24.97 ?   4 SSU A  C2 1
+HETATM   80 O  O2 . SSU A 1   4 ? 187.350 164.795 227.253 1.0 24.97 ?   4 SSU A  O2 1
+  ATOM 4358 P   P .   A C 3 191 ? 191.087 173.945 231.719 1.0 19.54 ? 207   A N   P 1
+  ATOM 4359 O OP1 .   A C 3 191 ? 190.389 174.427 232.936 1.0 19.54 ? 207   A N OP1 1
+  ATOM 4360 O OP2 .   A C 3 191 ? 192.434 174.471 231.383 1.0 19.54 ? 207   A N OP2 1
+  ATOM 4361 O O5' .   A C 3 191 ? 191.183 172.360 231.812 1.0 19.54 ? 207   A N O5' 1
+  ATOM 4362 C C5' .   A C 3 191 ? 190.012 171.561 231.807 1.0 19.54 ? 207   A N C5' 1
+  ATOM 4363 C C4' .   A C 3 191 ? 190.279 170.183 231.258 1.0 19.54 ? 207   A N C4' 1
+  ATOM 4364 O O4' .   A C 3 191 ? 190.816 170.280 229.916 1.0 19.54 ? 207   A N O4' 1
+  ATOM 4365 C C3' .   A C 3 191 ? 191.301 169.347 232.010 1.0 19.54 ? 207   A N C3' 1
+  ATOM 4366 O O3' .   A C 3 191 ? 190.760 168.715 233.153 1.0 19.54 ? 207   A N O3' 1
+  ATOM 4367 C C2' .   A C 3 191 ? 191.788 168.371 230.946 1.0 19.54 ? 207   A N C2' 1
+  ATOM 4368 O O2' .   A C 3 191 ? 190.904 167.271 230.808 1.0 19.54 ? 207   A N O2' 1
+  ATOM 4369 C C1' .   A C 3 191 ? 191.722 169.225 229.678 1.0 19.54 ? 207   A N C1' 1
+  ATOM 4370 N  N9 .   A C 3 191 ? 193.030 169.796 229.309 1.0 19.54 ? 207   A N  N9 1
+  ATOM 4371 C  C8 .   A C 3 191 ? 193.526 171.039 229.603 1.0 19.54 ? 207   A N  C8 1
+  ATOM 4372 N  N7 .   A C 3 191 ? 194.725 171.259 229.130 1.0 19.54 ? 207   A N  N7 1
+  ATOM 4373 C  C5 .   A C 3 191 ? 195.040 170.080 228.478 1.0 19.54 ? 207   A N  C5 1
+  ATOM 4374 C  C6 .   A C 3 191 ? 196.176 169.672 227.765 1.0 19.54 ? 207   A N  C6 1
+  ATOM 4375 N  N6 .   A C 3 191 ? 197.242 170.449 227.591 1.0 19.54 ? 207   A N  N6 1
+  ATOM 4376 N  N1 .   A C 3 191 ? 196.179 168.433 227.233 1.0 19.54 ? 207   A N  N1 1
+  ATOM 4377 C  C2 .   A C 3 191 ? 195.101 167.662 227.413 1.0 19.54 ? 207   A N  C2 1
+  ATOM 4378 N  N3 .   A C 3 191 ? 193.973 167.930 228.063 1.0 19.54 ? 207   A N  N3 1
+  ATOM 4379 C  C4 .   A C 3 191 ? 194.006 169.170 228.577 1.0 19.54 ? 207   A N  C4 1
+# 

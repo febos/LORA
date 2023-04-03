@@ -1,0 +1,67 @@
+data_1166_999_6TH6_24_2_12
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+ATOM   278 P   P . C A 1  14 ? 238.886 261.222 286.439 1.0 5.0 ?  14 C Aa   P 1
+ATOM   279 O OP1 . C A 1  14 ? 239.509 260.926 287.742 1.0 5.0 ?  14 C Aa OP1 1
+ATOM   280 O OP2 . C A 1  14 ? 238.853 260.176 285.399 1.0 5.0 ?  14 C Aa OP2 1
+ATOM   281 O O5' . C A 1  14 ? 237.393 261.687 286.713 1.0 5.0 ?  14 C Aa O5' 1
+ATOM   282 C C5' . C A 1  14 ? 236.325 260.758 286.707 1.0 5.0 ?  14 C Aa C5' 1
+ATOM   283 C C4' . C A 1  14 ? 235.004 261.439 286.898 1.0 5.0 ?  14 C Aa C4' 1
+ATOM   284 O O4' . C A 1  14 ? 234.695 262.269 285.753 1.0 5.0 ?  14 C Aa O4' 1
+ATOM   285 C C3' . C A 1  14 ? 233.796 260.530 287.023 1.0 5.0 ?  14 C Aa C3' 1
+ATOM   286 O O3' . C A 1  14 ? 233.652 259.962 288.311 1.0 5.0 ?  14 C Aa O3' 1
+ATOM   287 C C2' . C A 1  14 ? 232.651 261.451 286.644 1.0 5.0 ?  14 C Aa C2' 1
+ATOM   288 O O2' . C A 1  14 ? 232.268 262.254 287.745 1.0 5.0 ?  14 C Aa O2' 1
+ATOM   289 C C1' . C A 1  14 ? 233.296 262.338 285.580 1.0 5.0 ?  14 C Aa C1' 1
+ATOM   290 N  N1 . C A 1  14 ? 232.958 261.957 284.187 1.0 5.0 ?  14 C Aa  N1 1
+ATOM   291 C  C2 . C A 1  14 ? 231.667 262.072 283.648 1.0 5.0 ?  14 C Aa  C2 1
+ATOM   292 O  O2 . C A 1  14 ? 230.737 262.473 284.347 1.0 5.0 ?  14 C Aa  O2 1
+ATOM   293 N  N3 . C A 1  14 ? 231.452 261.720 282.361 1.0 5.0 ?  14 C Aa  N3 1
+ATOM   294 C  C4 . C A 1  14 ? 232.460 261.291 281.618 1.0 5.0 ?  14 C Aa  C4 1
+ATOM   295 N  N4 . C A 1  14 ? 232.236 260.953 280.360 1.0 5.0 ?  14 C Aa  N4 1
+ATOM   296 C  C5 . C A 1  14 ? 233.767 261.176 282.134 1.0 5.0 ?  14 C Aa  C5 1
+ATOM   297 C  C6 . C A 1  14 ? 233.964 261.524 283.396 1.0 5.0 ?  14 C Aa  C6 1
+ATOM 10962 P   P . A A 1 517 ? 220.464 268.043 286.472 1.0 5.0 ? 517 A Aa   P 1
+ATOM 10963 O OP1 . A A 1 517 ? 219.533 268.272 285.363 1.0 5.0 ? 517 A Aa OP1 1
+ATOM 10964 O OP2 . A A 1 517 ? 219.936 267.605 287.778 1.0 5.0 ? 517 A Aa OP2 1
+ATOM 10965 O O5' . A A 1 517 ? 221.472 266.963 285.889 1.0 5.0 ? 517 A Aa O5' 1
+ATOM 10966 C C5' . A A 1 517 ? 222.367 266.254 286.723 1.0 5.0 ? 517 A Aa C5' 1
+ATOM 10967 C C4' . A A 1 517 ? 223.007 265.111 285.999 1.0 5.0 ? 517 A Aa C4' 1
+ATOM 10968 O O4' . A A 1 517 ? 224.381 264.984 286.411 1.0 5.0 ? 517 A Aa O4' 1
+ATOM 10969 C C3' . A A 1 517 ? 222.411 263.740 286.231 1.0 5.0 ? 517 A Aa C3' 1
+ATOM 10970 O O3' . A A 1 517 ? 221.309 263.502 285.373 1.0 5.0 ? 517 A Aa O3' 1
+ATOM 10971 C C2' . A A 1 517 ? 223.579 262.790 285.962 1.0 5.0 ? 517 A Aa C2' 1
+ATOM 10972 O O2' . A A 1 517 ? 223.617 262.391 284.604 1.0 5.0 ? 517 A Aa O2' 1
+ATOM 10973 C C1' . A A 1 517 ? 224.804 263.655 286.257 1.0 5.0 ? 517 A Aa C1' 1
+ATOM 10974 N  N9 . A A 1 517 ? 225.595 263.254 287.436 1.0 5.0 ? 517 A Aa  N9 1
+ATOM 10975 C  C8 . A A 1 517 ? 225.244 262.795 288.674 1.0 5.0 ? 517 A Aa  C8 1
+ATOM 10976 N  N7 . A A 1 517 ? 226.257 262.571 289.468 1.0 5.0 ? 517 A Aa  N7 1
+ATOM 10977 C  C5 . A A 1 517 ? 227.356 262.909 288.705 1.0 5.0 ? 517 A Aa  C5 1
+ATOM 10978 C  C6 . A A 1 517 ? 228.735 262.898 288.955 1.0 5.0 ? 517 A Aa  C6 1
+ATOM 10979 N  N6 . A A 1 517 ? 229.278 262.527 290.101 1.0 5.0 ? 517 A Aa  N6 1
+ATOM 10980 N  N1 . A A 1 517 ? 229.558 263.294 287.975 1.0 5.0 ? 517 A Aa  N1 1
+ATOM 10981 C  C2 . A A 1 517 ? 229.018 263.674 286.824 1.0 5.0 ? 517 A Aa  C2 1
+ATOM 10982 N  N3 . A A 1 517 ? 227.752 263.732 286.461 1.0 5.0 ? 517 A Aa  N3 1
+ATOM 10983 C  C4 . A A 1 517 ? 226.958 263.331 287.461 1.0 5.0 ? 517 A Aa  C4 1
+# 
