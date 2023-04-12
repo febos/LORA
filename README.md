@@ -24,7 +24,39 @@ The coordinate files from PDB (Berman et al. 2000) and their annotations of the 
 
 ### Table S1
 
+The non-redundant list of 97 RNA chains used in this work.
+
+### Table S2
+
 The table of 17,272 long-range nucleotide doublets. For each doublet, the annotations of interactions and motif types are provided. Each doublet is assigned to a LORA module.
+
+### Table S3
+
+The table of 180 long-range doublets annotated with different Leontis-Westhof base pair types by different tools.
+
+### Table S4
+
+The table of 35 D-loop/T-loop-like motifs.
+
+### Table S5
+
+The table of 45 long-range tertiary motifs.
+
+### Table S6
+
+The table of 3880 long-range tertiary motif matches in the LORA modules.
+
+### Table S7
+
+The table of 515 long-range doublets matching the cSS base pair motif (motif 1).
+
+### Table S8
+
+The table of 1,264 LORA modules annotated with their descriptive types and involved interactions andd motifs. 
+
+### Table S9
+
+The table of 17 RINs and 24 LORA modules from the intersection in PDB entries between LORA and CaRNAval database (Reinharz et al. 2018).
 
 ### modules
 
@@ -32,9 +64,9 @@ The dataset of 1,264 long-range RNA 3D modules (LORA modules). Each module is id
 
 ### motifs
 
-The data on the long-range motif instances and motifs derived from the LORA modules. Motif instances are named using their source LORA module and an ordinal number, e.g. *2z75_1_259*. Motifs are named with the number of instances, motif size in residues, motif uniqueness, and the representative instance id, e.g. *118_9_0.99_6th6_56_1963*.
+The data on the long-range motif instances and motifs derived from the LORA modules. Motif instances are named using their source LORA module and an ordinal number, e.g. *2z75_1_259*. 
 
-- **motifs_part1.zip** & **motifs_part2.zip** - the tables listing the residues of all the derived 1,156,112 motif instances.
-- **clustering_round1** - intermediate results of step 1 of the custom clustering procedure. clst_N.txt files list a thousand intermediate clusters of size N. repr_N folders contain the cluster representatives in mmCIF format.
-- **clustering_round2** - the derived 2,733 long-range RNA tertiary motifs. All the motifs are present in both mmCIF and PDB formats.
-- **top_frequent** - archives with the data on the top 424 motifs having at least 100 instances. Each archive contains all the instances belonging to the given motif (mmCIF + PDB) along with a tsv table listing RMSD and the nucleotide matchings between the instances.
+- **motifs.zip** - the table listing the residues of all the derived 489,999 motif instances.
+- **clusters** - intermediate clusters of the motif instances from 2 to 20 residues in size. All cluster members are present in PDB format. Cluster centers are present in PDB and mmCIF formats.
+- **library** - the derived 45 long-range RNA tertiary motifs. All the motifs are present in both mmCIF and PDB formats.
+- **matches** - the derived 3880 long-range RNA tertiary motif matches in the LORA modules. All the motif matches are present in both mmCIF and PDB formats.
