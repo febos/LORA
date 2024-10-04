@@ -6,7 +6,7 @@ A dataset of long-range RNA 3D modules
 
 [D.R. Bohdan, V.V. Voronina, J.M. Bujnicki, E.F. Baulin (2023) A comprehensive survey of long-range tertiary interactions and motifs in non-coding RNA structures. Nucleic Acids Research. gkad605. DOI: 10.1093/nar/gkad605](https://doi.org/10.1093/nar/gkad605)
 
-## Check out our [ARTEM tool](https://github.com/david-bogdan-r/ARTEM)
+## Check out [our other developments](https://github.com/febos/wiki)
 
 ## Content 
 
